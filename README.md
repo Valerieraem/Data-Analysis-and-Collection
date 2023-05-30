@@ -3,3 +3,5 @@ cleaning and collection using a web scraper. Data analysis practice. Using beaut
 Scraping house details from Trulia. Looking at San Diego, and other cities.
 ### Start at the notebook file titled: Web Scraping Data Collection Project
 Other cities after San Diego are split into their own notebook files to keep it organized. The scraped data from all cities are saved as excel and csv files. 
+
+Running into some issues with captchas, tried to get around them and it did work but not good enough. Cycling IP addresses, using a fake user agent, etc. Will cut the project short and use the data that I currently have instead of scraping more cities so I don't get blocked. Next step is cleaning the data. 
