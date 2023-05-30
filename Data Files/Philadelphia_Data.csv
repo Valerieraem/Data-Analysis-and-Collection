@@ -1,0 +1,966 @@
+Address,Bedrooms,Bathrooms,Area,Year Built,Parking,Price,Location
+167 Mifflin St,2 Beds,2 Baths,"1,158 sqft",Year Built: 1905,Open Parking,"$340,000",Philadelphia
+837 Clyde Ln,3 Beds,2 Baths,"1,562 sqft",Year Built: 1974,3 Open Spaces,"$400,000",Philadelphia
+1918 E  Somerset St,3 Beds,1 Bath,984 sqft,Year Built: 1910,Open Parking,"$209,000",Philadelphia
+1700 Johnston St,3 Beds,2 Baths,"1,200 sqft",Year Built: 1920,Open Parking,"$285,000",Philadelphia
+1937 E  Letterly St,2 Beds,2 Baths,"1,276 sqft",Year Built: 1875Year Renovated: 2022,Open Parking,"$354,999",Philadelphia
+1825 E  Albert St,3 Beds,1 Bath,836 sqft,Year Built: 1953,Open Parking,"$209,000",Philadelphia
+4223 Ormond St,3 Beds,1 Bath,"1,200 sqft",Year Built: 1950,Open Parking,"$155,000",Philadelphia
+2312 S  Hutchinson St,3 Beds,2 Baths,"1,244 sqft",Year Built: 1920,Open Parking,"$319,000",Philadelphia
+5404 N  4th St,3 Beds,1 Bath,"1,376 sqft",Year Built: 1900,Open Parking,"$229,000",Philadelphia
+3278 Tilton St,2 Beds,2 Baths,988 sqft,Year Built: 1910,Open Parking,"$215,000",Philadelphia
+1921 S  Croskey St,2 Beds,,"1,020 sqft",Year Built: 1920,Open Parking,"$175,000",Philadelphia
+6623 Kindred St,4 Beds,2 Baths,"1,260 sqft",Year Built: 1950,1 Car Garage,"$259,999",Philadelphia
+261 W  Harvey St,6 Beds,3 Baths,"2,952 sqft",Year Built: 1900,Open Parking,"$470,000",Philadelphia
+4558 Marple St,3 Beds,1 Bath,"1,024 sqft",Year Built: 1950,1 Car Garage,"$220,000",Philadelphia
+8022 Jackson St,4 Beds,2 Baths,"2,400 sqft",Year Built: 1930,Open Parking,"$229,999",Philadelphia
+148 W  Durham St,3 Beds,1 Bath,"1,198 sqft",Year Built: 1925,Open Parking,"$339,000",Philadelphia
+255 E  Montana St,3 Beds,2 Baths,"1,242 sqft",Year Built: 2007,None,"$180,000",Philadelphia
+4025 Fairmount Ave,3 Beds,4 Baths,"3,105 sqft",Year Built: 2021,None,"$499,900",Philadelphia
+1324 E  Hunting Park Ave,4 Beds,3 Baths,"1,782 sqft",Year Built: 1961Year Renovated: 2022,1 Open Spaces,"$204,999",Philadelphia
+Liberty Plaza View Plan in North Liberty Triangle by Streamline,2 Beds,2 Baths,"1,024 sqft",Year Built: 2023,No Info,"$430,000+",Philadelphia
+1629 S  2nd St,3 Beds,2 Baths,"1,635 sqft",Year Built: 1915,Open Parking,"$410,000",Philadelphia
+750 S  9th St,4 Beds,3 Baths,"2,700 sqft",Year Built: 1920,Open Parking,"$899,999",Philadelphia
+5412 Pearl St,3 Beds,1 Bath,"1,080 sqft",Year Built: 1920,Open Parking,"$120,000",Philadelphia
+424 N  59th St,4 Beds,1 Bath,"1,320 sqft",Year Built: 1920,Open Parking,"$189,900",Philadelphia
+144 E  Westmoreland St,3 Beds,1 Bath,"1,200 sqft",Year Built: 1935,Open Parking,"$95,000",Philadelphia
+8013 Anderson St,3 Beds,2 Baths,"1,812 sqft",Year Built: 1968,Open Parking,"$590,000",Philadelphia
+6624 N  20th St,3 Beds,,"1,152 sqft",Year Built: 1925,Open Parking,"$15,000,000",Philadelphia
+1734 Mayland St,3 Beds,2 Baths,"1,364 sqft",Year Built: 1945,1 Car Garage,"$304,995",Philadelphia
+1718 W  Allegheny Ave,6 Beds,3 Baths,"1,921 sqft",Year Built: 1925Year Renovated: 2018,Open Parking,"$350,000",Philadelphia
+139 W  Sylvania St,4 Beds,2 Baths,"1,792 sqft",Year Built: 1900,Open Parking,"$180,000",Philadelphia
+4522 N  Colorado St,3 Beds,1 Bath,926 sqft,Year Built: 1940,Open Parking,"$85,000",Philadelphia
+2332 N  Smedley St,4 Beds,2 Baths,"1,456 sqft",Year Built: 1915,Open Parking,"$175,000",Philadelphia
+6020 N  16th St,3 Beds,2 Baths,"1,362 sqft",Year Built: 1915,1 Car Garage,"$249,000",Philadelphia
+6231 N  Gratz St,3 Beds,2 Baths,"1,310 sqft",Year Built: 1925,Open Parking,"$179,900",Philadelphia
+1821 N  Hancock St,3 Beds,1 Bath,"1,149 sqft",Year Built: 1925,Open Parking,"$300,000",Philadelphia
+136 Wendover St,3 Beds,1 Bath,"1,200 sqft",Year Built: 1900,Open Parking,"$270,000",Philadelphia
+4333 Fleming St,4 Beds,2 Baths,"1,845 sqft",Year Built: 1925,Open Parking,"$389,000",Philadelphia
+468 Conarroe St,2 Beds,2 Baths,"1,200 sqft",Year Built: 1900,Open Parking,"$349,900",Philadelphia
+4001 Mitchell St,3 Beds,1 Bath,"1,440 sqft",Year Built: 1930,Open Parking,"$219,900",Philadelphia
+4531 Frankford Ave,,,,,No Info,"$49,900",Philadelphia
+1911 E  Sterner St,,,,,No Info,"$28,250",Philadelphia
+2083 E  Elkhart St,3 Beds,1 Bath,"1,144 sqft",Year Built: 1920,Open Parking,"$85,000",Philadelphia
+3121 Weikel St,2 Beds,1 Bath,840 sqft,Year Built: 1920,Open Parking,"$65,000",Philadelphia
+2334 S  Lambert St,3 Beds,2 Baths,"1,036 sqft",Year Built: 1920,Open Parking,"$299,000",Philadelphia
+1714 Wolf St,4 Beds,2 Baths,"1,795 sqft",Year Built: 1925,Open Parking,"$389,000",Philadelphia
+2649 N  Myrtlewood St,3 Beds,2 Baths,"1,680 sqft",Year Built: 1915Year Renovated: 2023,Open Parking,"$195,000",Philadelphia
+1432 N  28th St,2 Beds,2 Baths,900 sqft,Year Built: 1925Year Renovated: 2018,Open Parking,"$269,900",Philadelphia
+2673 Cedar St,3 Beds,2 Baths,"1,016 sqft",Year Built: 1925,Open Parking,"$265,000",Philadelphia
+2669 Almond St,3 Beds,2 Baths,"1,680 sqft",Year Built: 1875,Open Parking,"$275,000",Philadelphia
+2033 E  Arizona St,3 Beds,2 Baths,"1,955 sqft",Year Built: 1920Year Renovated: 2017,None,"$475,000",Philadelphia
+2321 E  Boston St,3 Beds,2 Baths,954 sqft,Year Built: 1925Year Renovated: 2007,Open Parking,"$424,900",Philadelphia
+1845 N  Marston St,3 Beds,3 Baths,"1,764 sqft",Year Built: 2023,Open Parking,"$345,000",Philadelphia
+3938 Elsinore St,3 Beds,2 Baths,"1,072 sqft",Year Built: 1925,Open Parking,"$180,000",Philadelphia
+1218 N  59th St,4 Beds,1 Bath,"1,640 sqft",Year Built: 1917,Open Parking,"$199,900",Philadelphia
+1628 N  Robinson St,3 Beds,1 Bath,"1,158 sqft",Year Built: 1925,Open Parking,"$175,000",Philadelphia
+1824 N  77th St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1949,None,"$220,000",Philadelphia
+6457 Morris Park Rd,3 Beds,2 Baths,"1,408 sqft",Year Built: 1920,None,"$240,000",Philadelphia
+1235 E  Cheltenham Ave,3 Beds,1 Bath,"1,110 sqft",Year Built: 1950,1 Car Garage,"$189,900",Philadelphia
+1337 S  22nd St,3 Beds,2 Baths,"1,474 sqft",Year Built: 1923,Open Parking,"$379,900",Philadelphia
+2236 Earp St,4 Beds,3 Baths,"2,100 sqft",Year Built: 2023,Open Parking,"$479,000",Philadelphia
+1506 S  24th St,3 Beds,2 Baths,"1,248 sqft",Year Built: 1925,Open Parking,"$275,000",Philadelphia
+2945 N  Ringgold St,2 Beds,2 Baths,840 sqft,Year Built: 1940,Open Parking,"$40,000",Philadelphia
+2441 W  Toronto St,,,,,No Info,"$22,000",Philadelphia
+3626 Winona St,2 Beds,1 Bath,896 sqft,Year Built: 1945,1 Open Spaces,"$285,000",Philadelphia
+146 Emily St,2 Beds,1 Bath,858 sqft,Year Built: 1905,Open Parking,"$265,000",Philadelphia
+1934 S  4th St,3 Beds,2 Baths,"1,264 sqft",Year Built: 1920Year Renovated: 2023,None,"$368,000",Philadelphia
+2431 S  Sheridan St,3 Beds,3 Baths,900 sqft,Year Built: 1925,Open Parking,"$245,000",Philadelphia
+6729 Woodland Ave,4 Beds,3 Baths,"1,980 sqft",Year Built: 1920,2 Open Spaces,"$100,000",Philadelphia
+7400 Sandpiper Pl,2 Beds,2 Baths,860 sqft,Year Built: 1920,1 Car Garage,"$170,000",Philadelphia
+4603 Magee Ave,3 Beds,2 Baths,"1,140 sqft",Year Built: 1920,Open Parking,"$182,500",Philadelphia
+6326 Torresdale Ave,3 Beds,1 Bath,"1,140 sqft",Year Built: 1935,1 Car Garage,"$59,900",Philadelphia
+4639 C St,3 Beds,2 Baths,"1,200 sqft",Year Built: 1942,1 Car Garage,"$169,000",Philadelphia
+4031 Old York Rd,3 Beds,3 Baths,"1,500 sqft",Year Built: 1936,None,"$119,900",Philadelphia
+1934 E  Pike St,3 Beds,1 Bath,"1,080 sqft",Year Built: 1925,1 Car Garage,"$140,000",Philadelphia
+2612 Wilmot St,2 Beds,2 Baths,"1,064 sqft",Year Built: 1925,No Info,"$150,000",Philadelphia
+2743 Ash St,4 Beds,2 Baths,"1,605 sqft",Year Built: 1925,Open Parking,"$250,000",Philadelphia
+612 S  48th St,6 Beds,4 Baths,"3,540 sqft",Year Built: 1925Year Renovated: 2022,Open Parking,"$789,000",Philadelphia
+647 S  55th St,4 Beds,2 Baths,"1,600 sqft",Year Built: 1925,Open Parking,"$160,000",Philadelphia
+634 S  56th St,3 Beds,2 Baths,"1,184 sqft",Year Built: 1925,Open Parking,"$265,000",Philadelphia
+2026 S  Cleveland St,3 Beds,1 Bath,"1,020 sqft",Year Built: 1920,Open Parking,"$215,000",Philadelphia
+2025 S  22nd St,3 Beds,2 Baths,"1,500 sqft",Year Built: 1920,Open Parking,"$185,000",Philadelphia
+1130 S  Paxon St,4 Beds,3 Baths,"1,850 sqft",Year Built: 1925Year Renovated: 2022,Open Parking,"$344,900",Philadelphia
+1224 Hale St,3 Beds,2 Baths,"1,290 sqft",Year Built: 1948,1 Car Garage,"$210,000",Philadelphia
+6332 Large St,3 Beds,3 Baths,"1,278 sqft",Year Built: 1950,Open Parking,"$239,900",Philadelphia
+1344 Ascot Pl,3 Beds,2 Baths,"1,296 sqft",Year Built: 1960,1 Car Garage,"$275,000",Philadelphia
+5144 Delancey St,3 Beds,1 Bath,"1,080 sqft",Year Built: 1925,Open Parking,"$300,000",Philadelphia
+5444 Osage Ave,3 Beds,1 Bath,"1,080 sqft",Year Built: 1925,Open Parking,"$155,000",Philadelphia
+5329 Akron St,3 Beds,1 Bath,"1,230 sqft",Year Built: 1945,Open Parking,"$155,000",Philadelphia
+4043 Higbee St,3 Beds,1 Bath,"1,074 sqft",Year Built: 1940,Open Parking,"$195,000",Philadelphia
+8232 Pine Rd,3 Beds,3 Baths,"1,103 sqft",Year Built: 1962,1 Car Garage,"$260,000",Philadelphia
+3972 Stevenson St,3 Beds,2 Baths,"1,386 sqft",Year Built: 1978,Open Parking,"$339,900",Philadelphia
+810 N  Park Ave,3 Beds,2 Baths,"1,260 sqft",Year Built: 2000,Open Parking,"$399,999",Philadelphia
+4506 Merion Ave,6 Beds,,"3,000 sqft",Year Built: 2023,Open Parking,"$585,000",Philadelphia
+2018 Christian St #A,Studio,1 Bath,300 sqft,Year Built: 1900,Open Parking,"$120,000",Philadelphia
+187 Hillcrest Ave,4 Beds,3 Baths,"3,362 sqft (on 0.39 acres)",Year Built: 1962,2 Car Garage,"$699,000",Philadelphia
+2134 Borbeck Ave,2 Beds,2 Baths,850 sqft,Year Built: 1957,1 Car Garage,"$300,000",Philadelphia
+3511 N  11th St,5 Beds,2 Baths,"2,104 sqft",Year Built: 1915,Open Parking,"$199,900",Philadelphia
+210 Commodore Ct,3 Beds,3 Baths,"2,159 sqft",Year Built: 2011,1 Car Garage,"$875,000",Philadelphia
+2047 McClellan St,3 Beds,3 Baths,,,Open Parking,"$439,990",Philadelphia
+1211 W  Erie Ave,,,,,No Info,"$92,000",Philadelphia
+929 French St,3 Beds,3 Baths,"1,491 sqft",Year Built: 2018,Open Parking,"$399,900",Philadelphia
+231 W  George St,4 Beds,3 Baths,"3,000 sqft",Year Built: 2013,2 Carport Spaces,"$975,000",Philadelphia
+6028 Chestnut St,4 Beds,3 Baths,"1,522 sqft",Year Built: 1920,Open Parking,"$295,000",Philadelphia
+5038 Willows Ave,4 Beds,2 Baths,"2,236 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$420,000",Philadelphia
+1614 Magee Ave,2 Beds,,"1,288 sqft",Year Built: 1920,Open Parking,"$15,000,000",Philadelphia
+1414 S  Leithgow Ter,3 Beds,5 Baths,"2,920 sqft",Year Built: 2017,2 Car Garage,"$798,000",Philadelphia
+2666 Collins St,3 Beds,3 Baths,"2,321 sqft",Year Built: 2017,2 Open Spaces,"$479,900",Philadelphia
+1214 E  Susquehanna Ave,,,,,No Info,"$450,000",Philadelphia
+1716 Cambridge St #1,3 Beds,3 Baths,"1,649 sqft",Year Built: 2019,Open Parking,"$405,000",Philadelphia
+2563 Grays Ferry Ave #3,3 Beds,3 Baths,"1,509 sqft",Year Built: 2018,1 Carport Spaces,"$599,900",Philadelphia
+220 Locust St   #25AH,3 Beds,2 Baths,"1,944 sqft",Year Built: 1963Year Renovated: 2018,2 Car Garage,"$925,000",Philadelphia
+501 Montgomery St   #1,2 Beds,2 Baths,,Year Built: 2023,Open Parking,"$270,000",Philadelphia
+3233 Mercer St,3 Beds,3 Baths,"3,050 sqft",Year Built: 2023,1 Carport Spaces,"$549,900",Philadelphia
+2619 E  Boston Ave  #1,3 Beds,4 Baths,"1,800 sqft",Year Built: 2023,1 Parking Spaces,"$500,000",Philadelphia
+1414 S  Penn Sq   #20B,3 Beds,3 Baths,"2,046 sqft",Year Built: 2009,1 Car Garage,"$1,750,000",Philadelphia
+1501 S  25th St,4 Beds,3 Baths,"1,530 sqft (on 0.33 acres)",Year Built: 1930,1 Car Garage,"$799,000",Philadelphia
+South Pandora Plan in South Liberty Triangle by Streamline,1 Bed,1 Bath,790 sqft,Year Built: 2023,No Info,"$285,000+",Philadelphia
+Liberty West View Plan in North Liberty Triangle by Streamline,2 Beds,2 Baths,"1,024 sqft",Year Built: 2023,No Info,"$430,000+",Philadelphia
+Kahn Model #2 Plan in Regent Row by Jim Roche Real Estate Team,3 Beds,3 Baths,"3,364 sqft",Year Built: 2023,Garage,"$949,900+",Philadelphia
+404 Dickinson St,4 Beds,4 Baths,"2,425 sqft",Year Built: 1915,Open Parking,"$630,000",Philadelphia
+630 Greenwich St,2 Beds,2 Baths,"1,263 sqft",Year Built: 1915Year Renovated: 2018,Open Parking,"$355,000",Philadelphia
+708 Annin St,3 Beds,2 Baths,"1,360 sqft",Year Built: 1920,Open Parking,"$395,000",Philadelphia
+732 E  Passyunk Ave,6 Beds,3 Baths,"2,835 sqft",Year Built: 1915,2 Carport Spaces,"$1,550,000",Philadelphia
+334 Pemberton St,2 Beds,2 Baths,644 sqft,Year Built: 1982,1 Open Spaces,"$429,000",Philadelphia
+6132 Hazel Ave,3 Beds,1 Bath,"1,020 sqft",Year Built: 1925,Open Parking,"$95,000",Philadelphia
+1017 Lombard St,3 Beds,2 Baths,"1,600 sqft",Year Built: 1977,Open Parking,"$850,000",Philadelphia
+999 N  6th St,8 Beds,4 Baths,"6,780 sqft",Year Built: 1920,3 Car Garage,"$1,900,000",Philadelphia
+804 N  Preston St,3 Beds,,"2,005 sqft",Year Built: 1915,None,"$300,000",Philadelphia
+812 N  Preston St,6 Beds,,"2,005 sqft",Year Built: 1915,None,"$350,000",Philadelphia
+3217 N  Hope St,3 Beds,1 Bath,"1,036 sqft",Year Built: 1945,Open Parking,"$93,900",Philadelphia
+435 W  Airdrie St,2 Beds,2 Baths,784 sqft,Year Built: 1930,None,"$85,000",Philadelphia
+3336 Ella St,3 Beds,1 Bath,"1,204 sqft",Year Built: 1945,No Info,"$90,000",Philadelphia
+2724 N  Bonsall St,3 Beds,1 Bath,926 sqft,Year Built: 1925,None,"$110,000",Philadelphia
+4928 Wakefield St,4 Beds,1 Bath,945 sqft,Year Built: 1925,Open Parking,"$160,000",Philadelphia
+4431 Greene St,3 Beds,2 Baths,"1,134 sqft",Year Built: 1940,Open Parking,"$219,900",Philadelphia
+700 N  24th St,4 Beds,3 Baths,"2,200 sqft",Year Built: 1920,Open Parking,"$740,000",Philadelphia
+2337-39 Perot St,3 Beds,3 Baths,"2,700 sqft",Year Built: 1920,Garage,"$1,190,000",Philadelphia
+6408 N  Lambert St,3 Beds,2 Baths,"1,658 sqft",Year Built: 1925,Open Parking,"$219,900",Philadelphia
+6102 N  Norwood St,2 Beds,1 Bath,888 sqft,Year Built: 1925Year Renovated: 2019,Open Parking,"$169,900",Philadelphia
+1420 E  Palmer St,3 Beds,4 Baths,"1,792 sqft",Year Built: 1920,Open Parking,"$710,000",Philadelphia
+2230 N  Mutter St,2 Beds,1 Bath,750 sqft,Year Built: 1920Year Renovated: 2020,Open Parking,"$224,000",Philadelphia
+545 W  Willard St,2 Beds,1 Bath,906 sqft,Year Built: 1920,Open Parking,"$89,000",Philadelphia
+4603 Saint Davids St,2 Beds,1 Bath,896 sqft,Year Built: 1910,Open Parking,"$287,500",Philadelphia
+211 Lauriston St,3 Beds,1 Bath,"1,112 sqft",Year Built: 1925,Open Parking,"$305,000",Philadelphia
+645 Maris St,3 Beds,3 Baths,"1,458 sqft",Year Built: 1955,1 Car Garage,"$429,000",Philadelphia
+5951 Houghton St,3 Beds,2 Baths,"1,120 sqft",Year Built: 1955,1 Car Garage,"$329,000",Philadelphia
+5843 Henry Ave,3 Beds,3 Baths,"1,382 sqft",Year Built: 1960,1 Car Garage,"$369,900",Philadelphia
+1333 Foulkrod St,3 Beds,2 Baths,"1,284 sqft",Year Built: 1940,Open Parking,"$224,900",Philadelphia
+2344 S  Carlisle St,3 Beds,2 Baths,"1,056 sqft",Year Built: 1920,Open Parking,"$219,900",Philadelphia
+2508 S  Cleveland St,4 Beds,3 Baths,"1,728 sqft",Year Built: 1920,Open Parking,"$483,000",Philadelphia
+2341 Nicholas St,4 Beds,,"1,231 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$369,900",Philadelphia
+2048 South St,4 Beds,4 Baths,"2,787 sqft",Year Built: 1925,1 Car Garage,"$1,599,000",Philadelphia
+1814 Catharine St,3 Beds,3 Baths,"2,300 sqft",Year Built: 1915,Open Parking,"$1,195,000",Philadelphia
+2231 Emerald St,3 Beds,1 Bath,"1,204 sqft",Year Built: 1875,Open Parking,"$350,000",Philadelphia
+2529 Memphis St,3 Beds,1 Bath,"1,404 sqft",Year Built: 1875,Open Parking,"$400,000",Philadelphia
+2161 E  Dauphin St,3 Beds,3 Baths,"1,734 sqft",Year Built: 1900,Open Parking,"$435,000",Philadelphia
+2612 E  Letterly St,2 Beds,1 Bath,900 sqft,Year Built: 1875,Open Parking,"$279,000",Philadelphia
+1456 N  59th St,3 Beds,1 Bath,"1,258 sqft",Year Built: 1925,Open Parking,"$189,900",Philadelphia
+1539 N  61st St,3 Beds,1 Bath,"1,312 sqft",Year Built: 1925,Open Parking,"$175,000",Philadelphia
+939 Brill St,3 Beds,1 Bath,"1,030 sqft",Year Built: 1940,1 Car Garage,"$170,000",Philadelphia
+2060 Wilder St,2 Beds,2 Baths,"1,364 sqft",Year Built: 1923Year Renovated: 2023,Open Parking,"$299,888",Philadelphia
+1721 S  Taylor St,4 Beds,3 Baths,"1,700 sqft",Year Built: 2023,Open Parking,"$425,000",Philadelphia
+1513 S  Bailey St,3 Beds,1 Bath,956 sqft,Year Built: 1925,Open Parking,"$114,000",Philadelphia
+1419 S  17th St,3 Beds,3 Baths,"2,182 sqft",Year Built: 1925,Open Parking,"$494,900",Philadelphia
+1709 Watkins St,3 Beds,1 Bath,"1,016 sqft",Year Built: 1925,None,"$229,000",Philadelphia
+2735 N  Darien St,4 Beds,1 Bath,990 sqft,Year Built: 1920,Open Parking,"$169,900",Philadelphia
+3124 N  Darien St,Studio,1 Bath,812 sqft,Year Built: 1920,No Info,"$60,000",Philadelphia
+3154 N  Darien St,2 Beds,1 Bath,812 sqft,Year Built: 1920,No Info,"$50,000",Philadelphia
+716 W  Allegheny Ave,Studio,,"1,260 sqft",Year Built: 1920,Open Parking,"$70,000",Philadelphia
+2927 Midvale Ave,6 Beds,4 Baths,"2,730 sqft (on 0.25 acres)",Year Built: 1925,Open Parking,"$735,000",Philadelphia
+234 Mifflin St,2 Beds,1 Bath,"1,354 sqft",Year Built: 1906,Open Parking,"$280,000",Philadelphia
+311 Durfor St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1920,Open Parking,"$234,000",Philadelphia
+918 Jackson St,3 Beds,3 Baths,"1,480 sqft",Year Built: 1925,Open Parking,"$359,000",Philadelphia
+6441 Torresdale Ave,3 Beds,1 Bath,"1,280 sqft",Year Built: 1935,Open Parking,"$224,900",Philadelphia
+4337 Teesdale St,2 Beds,1 Bath,914 sqft,Year Built: 1950,1 Car Garage,"$169,900",Philadelphia
+140 W  Ashdale St,3 Beds,1 Bath,"1,152 sqft",Year Built: 1935,Open Parking,"$209,995",Philadelphia
+5536 N  4th St,3 Beds,1 Bath,"1,362 sqft",Year Built: 1900,1 Car Garage,"$185,000",Philadelphia
+3632 E  Allen St,2 Beds,2 Baths,780 sqft,Year Built: 1925,Open Parking,"$179,999",Philadelphia
+1521 N  Bouvier St,9 Beds,4 Baths,"2,370 sqft",Year Built: 1915,Open Parking,"$474,900",Philadelphia
+2207 S  Bonsall St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1920,Open Parking,"$140,000",Philadelphia
+5253 Florence Ave,4 Beds,4 Baths,"1,500 sqft",Year Built: 1925,Open Parking,"$400,000",Philadelphia
+5302 Glenmore Ave,3 Beds,1 Bath,892 sqft,Year Built: 1920,Open Parking,"$64,900",Philadelphia
+1508 Benner St,3 Beds,1 Bath,"1,002 sqft",Year Built: 1950,1 Open Spaces,"$150,000",Philadelphia
+2807 Shipley Rd,3 Beds,1 Bath,"1,170 sqft",Year Built: 1956,1 Car Garage,"$299,900",Philadelphia
+5908 Chew Ave,3 Beds,2 Baths,"1,366 sqft",Year Built: 1925Year Renovated: 2023,1 Car Garage,"$234,900",Philadelphia
+7003 N  12th St,6 Beds,4 Baths,"4,158 sqft",Year Built: 1922Year Renovated: 2022,Garage,"$660,000",Philadelphia
+7759 Hasbrook Ave,3 Beds,1 Bath,"1,560 sqft",Year Built: 1960,Open Parking,"$399,900",Philadelphia
+3335 Atmore Rd,3 Beds,2 Baths,"1,360 sqft",Year Built: 1962,Open Parking,"$329,000",Philadelphia
+12420 Wyndom Rd,3 Beds,2 Baths,"1,360 sqft",Year Built: 1963,Open Parking,"$339,900",Philadelphia
+9530 James St #A,2 Beds,3 Baths,"1,056 sqft",Year Built: 1988,1 Car Garage,"$245,000",Philadelphia
+3623 N  16th St,4 Beds,3 Baths,"1,890 sqft",Year Built: 1930,None,"$259,000",Philadelphia
+1324 Locust St #325,Studio,1 Bath,320 sqft,Year Built: 1900,None,"$72,500",Philadelphia
+182 Gay St #905,2 Beds,2 Baths,"1,303 sqft",Year Built: 2005,Parking Lot,"$345,000",Philadelphia
+1352 South St #312,1 Bed,2 Baths,"1,455 sqft",Year Built: 2007,1 Car Garage,"$499,000",Philadelphia
+1600 Arch St #1713,2 Beds,2 Baths,"1,077 sqft",Year Built: 1925,2 Car Garage,"$539,000",Philadelphia
+623 W  Oxford St,4 Beds,4 Baths,"3,324 sqft",Year Built: 1915,Open Parking,"$749,900",Philadelphia
+1914 Greymont St,4 Beds,3 Baths,"1,690 sqft",Year Built: 1960,Open Parking,"$489,900",Philadelphia
+2118 Christian St,4 Beds,4 Baths,"2,799 sqft",Year Built: 2007Year Renovated: 2018,Open Parking,"$800,000",Philadelphia
+2243 N  Camac St,11 Beds,4 Baths,"3,024 sqft",Year Built: 2012,Open Parking,"$496,900",Philadelphia
+654 Keely Ct,3 Beds,3 Baths,"1,867 sqft",Year Built: 2012,1 Car Garage,"$435,000",Philadelphia
+623 Emily St,3 Beds,3 Baths,"1,284 sqft",Year Built: 2015,Open Parking,"$420,000",Philadelphia
+1724 N  26th St,,,,,No Info,"$65,000",Philadelphia
+1905 E  Huntingdon St,6 Beds,5 Baths,,Year Built: 2020,Open Parking,"$599,000",Philadelphia
+434 Jefferson St,,,,,No Info,"$59,900",Philadelphia
+2344 Mutter St,4 Beds,3 Baths,,Year Built: 2023,Open Parking,"$349,900",Philadelphia
+802 N  Preston St,,,,,No Info,"$175,000",Philadelphia
+3155 N  Darien St,,,,,No Info,"$20,000",Philadelphia
+1624 Seybert St,3 Beds,3 Baths,"2,000 sqft",Year Built: 2023,Open Parking,"$435,000",Philadelphia
+2124 N  Reese St,,,,,No Info,"$90,000",Philadelphia
+1845 E  Huntingdon St,6 Beds,5 Baths,,Year Built: 2018,Open Parking,"$599,000",Philadelphia
+611 N  3rd St,4 Beds,6 Baths,"3,522 sqft",Year Built: 2017,2 Car Garage,"$1,300,000",Philadelphia
+118 S  21st St   #501,2 Beds,1 Bath,937 sqft (on 0.51 acres),Year Built: 1954,Garage,"$149,900",Philadelphia
+224 W  Rittenhouse Sq   #2602,Studio,1 Bath,573 sqft,Year Built: 1970,None,"$240,000",Philadelphia
+1114-16 Carpenter St,,,,,No Info,"$1,199,000",Philadelphia
+1919 Buckius St,,,,,No Info,"$450,000",Philadelphia
+2018 Walnut St   #19C,1 Bed,1 Bath,700 sqft,Year Built: 1980,None,"$347,500",Philadelphia
+10 Station Ln,3 Beds,3 Baths,"1,632 sqft",Year Built: 1980,1 Open Spaces,"$650,000",Philadelphia
+3907 Spring Garden St,4 Beds,3 Baths,"3,450 sqft",Year Built: 1930,None,"$649,900",Philadelphia
+Belgrade Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"1,493 sqft",Year Built: 2023,No Info,"$594,995+",Philadelphia
+Bratton Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"1,493 sqft",Year Built: 2023,No Info,"$629,995+",Philadelphia
+1240 Christian St,3 Beds,3 Baths,"2,136 sqft",Year Built: 1915,Open Parking,"$750,000",Philadelphia
+737 Clymer St,2 Beds,2 Baths,"1,104 sqft",Year Built: 1920,Open Parking,"$480,000",Philadelphia
+5960 Warrington Ave,3 Beds,2 Baths,"1,320 sqft",Year Built: 1925,Open Parking,"$275,000",Philadelphia
+1242 N  Conestoga St,3 Beds,1 Bath,"1,130 sqft",Year Built: 1925,Open Parking,"$170,000",Philadelphia
+2719 N  20th St,3 Beds,2 Baths,"1,050 sqft",Year Built: 1940,None,"$80,000",Philadelphia
+3240 N  Sydenham St,3 Beds,1 Bath,"1,076 sqft",Year Built: 1925,No Info,"$119,000",Philadelphia
+4802 Stenton Ave,3 Beds,1 Bath,"1,030 sqft",Year Built: 1960,Open Parking,"$105,000",Philadelphia
+5529 Osceola St,2 Beds,1 Bath,986 sqft,Year Built: 1925,None,"$149,900",Philadelphia
+2440 N  16th St,3 Beds,1 Bath,"1,468 sqft",Year Built: 1915,Open Parking,"$199,999",Philadelphia
+5707 N  Woodstock St,3 Beds,1 Bath,"1,000 sqft",Year Built: 1925,No Info,"$104,900",Philadelphia
+117 Rochelle Ave,5 Beds,2 Baths,"1,709 sqft",Year Built: 1900,Open Parking,"$510,000",Philadelphia
+1358 Gillingham St,3 Beds,2 Baths,"1,222 sqft",Year Built: 1930,Open Parking,"$229,900",Philadelphia
+3737 Brandywine St,4 Beds,2 Baths,"1,900 sqft",Year Built: 1930,None,"$425,000",Philadelphia
+2436 W  Oakdale St,3 Beds,2 Baths,"1,134 sqft",Year Built: 1925Year Renovated: 2022,Open Parking,"$170,000",Philadelphia
+2643 Amber St,2 Beds,2 Baths,"1,164 sqft",Year Built: 1875,Open Parking,"$290,000",Philadelphia
+1620 French St,3 Beds,1 Bath,"1,128 sqft",Year Built: 1915,None,"$100,000",Philadelphia
+2541 Turner St,4 Beds,3 Baths,,,Open Parking,"$499,000",Philadelphia
+4135 Maywood St,3 Beds,2 Baths,"1,056 sqft",Year Built: 1925,Open Parking,"$137,000",Philadelphia
+6420 Vine St,2 Beds,1 Bath,946 sqft,Year Built: 1925,Open Parking,"$149,900",Philadelphia
+220 Benner St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1950,1 Open Spaces,"$190,000",Philadelphia
+5949 Colgate St,3 Beds,1 Bath,"1,068 sqft",Year Built: 1940,1 Car Garage,"$139,900",Philadelphia
+1914 Annin St,3 Beds,3 Baths,"1,038 sqft (on 1.72 acres)",Year Built: 1925,None,"$489,900",Philadelphia
+2422 N  13th St,3 Beds,2 Baths,"1,114 sqft",Year Built: 1920,Open Parking,"$149,900",Philadelphia
+3115 N  Darien St,2 Beds,1 Bath,842 sqft,Year Built: 1920,No Info,"$80,000",Philadelphia
+2953 N  Taylor St,3 Beds,2 Baths,920 sqft,Year Built: 1925,Open Parking,"$199,000",Philadelphia
+415 Cantrell St,4 Beds,3 Baths,"1,700 sqft",Year Built: 2022,Open Parking,"$449,999",Philadelphia
+2513 S  Franklin St,2 Beds,1 Bath,974 sqft,Year Built: 1920,Open Parking,"$215,000",Philadelphia
+2613 S  71st St,3 Beds,1 Bath,960 sqft,Year Built: 1916,Open Parking,"$199,900",Philadelphia
+120 E  Mentor St,4 Beds,2 Baths,"1,280 sqft",Year Built: 1940,Open Parking,"$249,900",Philadelphia
+518 E  Roosevelt Blvd,4 Beds,3 Baths,"1,936 sqft",Year Built: 1930,2 Open Spaces,"$220,000",Philadelphia
+3360 N  10th St,4 Beds,,"1,296 sqft",Year Built: 1930,2 Car Garage,"$230,000",Philadelphia
+532 W  Venango St,3 Beds,2 Baths,"1,360 sqft",Year Built: 1942,Open Parking,"$180,000",Philadelphia
+2633 E  Allegheny Ave,2 Beds,2 Baths,"1,369 sqft",Year Built: 1920Year Renovated: 2020,Open Parking,"$399,000",Philadelphia
+3431 Belgrade St,2 Beds,2 Baths,"1,854 sqft",Year Built: 1951,Open Parking,"$234,900",Philadelphia
+2226 Sigel St,2 Beds,1 Bath,"1,018 sqft",Year Built: 1920,None,"$279,000",Philadelphia
+4932 N  8th St,3 Beds,1 Bath,"1,346 sqft",Year Built: 1935,1 Car Garage,"$199,988",Philadelphia
+5219 N  10th St,3 Beds,1 Bath,"1,134 sqft",Year Built: 1935,Open Parking,"$120,000",Philadelphia
+7825 Forrest Ave,4 Beds,3 Baths,"1,088 sqft",Year Built: 1950,3 Open Spaces,"$314,900",Philadelphia
+5653 Florence Ave,3 Beds,1 Bath,"1,202 sqft",Year Built: 1925,Open Parking,"$100,000",Philadelphia
+1443 Elbridge St,4 Beds,2 Baths,"1,332 sqft",Year Built: 1950,Garage,,Philadelphia
+6518 Horrocks St,3 Beds,2 Baths,"1,120 sqft",Year Built: 1948,1 Car Garage,"$210,000",Philadelphia
+4113 Gilham St,3 Beds,1 Bath,960 sqft,Year Built: 1950,1 Car Garage,"$175,000",Philadelphia
+8779 Ashton Rd,,,,,No Info,"$139,999",Philadelphia
+9225 Wooden Bridge Rd,3 Beds,1 Bath,"1,575 sqft",Year Built: 1950,1 Car Garage,"$334,900",Philadelphia
+448 E  Mechanic St,3 Beds,1 Bath,"1,232 sqft",Year Built: 1900,None,"$185,000",Philadelphia
+138 W  Spencer St,3 Beds,1 Bath,"1,140 sqft",Year Built: 1935,1 Car Garage,"$239,000",Philadelphia
+2016 Lardner St,3 Beds,1 Bath,"1,176 sqft",Year Built: 1950,1 Car Garage,"$239,900",Philadelphia
+6337 Mershon St,3 Beds,1 Bath,"1,108 sqft",Year Built: 1950,1 Car Garage,"$139,900",Philadelphia
+211 Nauldo Rd,3 Beds,2 Baths,"1,360 sqft",Year Built: 1970,1 Car Garage,"$325,000",Philadelphia
+2609 W  Montgomery Ave,5 Beds,2 Baths,"1,398 sqft",Year Built: 1915,Open Parking,"$84,000",Philadelphia
+4814 Chester Ave,3 Beds,3 Baths,"2,700 sqft",Year Built: 1925,Open Parking,"$730,000",Philadelphia
+1414 S  Penn Sq   W  #2,5 Beds,7 Baths,"9,515 sqft",Year Built: 2009,4 Car Garage,"$17,127,000",Philadelphia
+1314 N  Marston St,30 Beds,,"19,200 sqft",Year Built: 2023,Garage,"$6,100,000",Philadelphia
+1717 Mifflin St,3 Beds,4 Baths,"1,584 sqft",Year Built: 1920,Open Parking,"$375,000",Philadelphia
+3231 Mercer St,2 Beds,2 Baths,"1,800 sqft",Year Built: 2023,1 Carport Spaces,"$449,900",Philadelphia
+3229 Mercer St,3 Beds,3 Baths,"3,050 sqft",Year Built: 2023,1 Car Garage,"$569,900",Philadelphia
+2007 Walnut St,12 Beds,,"11,334 sqft",Year Built: 1900,Parking Lot,"$7,000,000",Philadelphia
+11 N  2nd St   #204,1 Bed,1 Bath,789 sqft,Year Built: 1900,None,"$299,999",Philadelphia
+1900 Rittenhouse Sq   #PENTHOUSE,3 Beds,4 Baths,"3,500 sqft",Year Built: 1928,None,"$3,300,000",Philadelphia
+614 N  Union St   #B,6 Beds,6 Baths,"2,800 sqft",,Open Parking,"$745,000",Philadelphia
+2519 E  Monmouth St,,,,,No Info,"$775,000",Philadelphia
+3132 Cecil B Moore Ave,5 Beds,,"1,944 sqft",Year Built: 1915,Open Parking,"$140,000",Philadelphia
+1816 N  Ringgold St,5 Beds,2 Baths,"1,336 sqft",Year Built: 1915,Open Parking,"$84,000",Philadelphia
+2042 Amber St   #103,1 Bed,1 Bath,"1,060 sqft",Year Built: 2011Year Renovated: 2011,None,"$345,000",Philadelphia
+500 Walnut St   #1400,3 Beds,4 Baths,"4,300 sqft",Year Built: 2017,2 Car Garage,"$6,500,000",Philadelphia
+1102 N  2nd St   #A,3 Beds,2 Baths,"1,266 sqft",Year Built: 2022,28 Car Garage,"$545,000",Philadelphia
+224 W Rittenhouse Square #2606,2 Beds,2 Baths,"1,231 sqft",Year Built: 1970Year Renovated: 2018,No Info,"$1,200,000",Philadelphia
+1325 Buttonwood St,5 Beds,,"3,017 sqft",Year Built: 2020,Open Parking,"$875,000",Philadelphia
+327 N  Preston St,6 Beds,3 Baths,"2,732 sqft",Year Built: 1915Year Renovated: 2019,Open Parking,"$529,900",Philadelphia
+Cumberland Street #4 Plan in Letterland Court by Jim Roche Real Estate Team,3 Beds,4 Baths,"3,020 sqft",Year Built: 2023,Garage,"$949,000+",Philadelphia
+West Point Plan in North Liberty Triangle by Streamline,2 Beds,2 Baths,"1,105 sqft",Year Built: 2023,No Info,"$572,000+",Philadelphia
+Jameson Model #2 Plan in Regent Row by Jim Roche Real Estate Team,3 Beds,3 Baths,"2,673 sqft",Year Built: 2023,Garage,"$759,900+",Philadelphia
+Moyer Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"2,406 sqft",Year Built: 2023,No Info,"$759,995+",Philadelphia
+Francesca Plan in Siena Place by Judd Builders and Developers,3 Beds,3 Baths,"2,885 sqft",Year Built: 2023,No Info,"$645,900+",Philadelphia
+406 N  Hobart St,3 Beds,1 Bath,"1,134 sqft",Year Built: 1920,Open Parking,"$115,000",Philadelphia
+645 Lombard St,4 Beds,5 Baths,"2,388 sqft",Year Built: 1973,1 Parking Spaces,"$849,900",Philadelphia
+1930 W  Westmoreland St,3 Beds,1 Bath,"1,358 sqft",Year Built: 1925,Open Parking,"$160,000",Philadelphia
+216 W  Penn St,6 Beds,3 Baths,"1,920 sqft",Year Built: 1900,Open Parking,"$310,000",Philadelphia
+166 W  School House Ln,5 Beds,3 Baths,"3,183 sqft (on 0.28 acres)",Year Built: 1900,Garage,"$559,000",Philadelphia
+2460 N  19th St,4 Beds,3 Baths,"1,927 sqft",Year Built: 1915,Open Parking,"$309,995",Philadelphia
+6418 N  Norwood St,3 Beds,1 Bath,"1,056 sqft",Year Built: 1925,Open Parking,"$170,000",Philadelphia
+2242 N  Mascher St,2 Beds,2 Baths,"1,116 sqft",Year Built: 1920,Open Parking,"$215,000",Philadelphia
+6946 Pawling St,4 Beds,2 Baths,"1,272 sqft",Year Built: 1960,Open Parking,"$380,000",Philadelphia
+113 E  Cliveden St,Studio,1 Bath,"3,440 sqft (on 0.25 acres)",Year Built: 1925,Open Parking,"$450,000",Philadelphia
+61 E  Hortter St,3 Beds,1 Bath,"1,216 sqft",Year Built: 1925,Open Parking,"$195,000",Philadelphia
+1677 Margaret St,3 Beds,3 Baths,"2,084 sqft",Year Built: 1925,3 Open Spaces,"$250,000",Philadelphia
+5215 Whitaker Ave,3 Beds,2 Baths,"1,881 sqft",Year Built: 1940,1 Car Garage,"$269,000",Philadelphia
+3152 Memphis St,3 Beds,1 Bath,948 sqft,Year Built: 1925,Open Parking,"$55,000",Philadelphia
+3027 Cambridge St,2 Beds,1 Bath,914 sqft,Year Built: 1925,Open Parking,"$319,900",Philadelphia
+1345 N  Myrtlewood St,3 Beds,1 Bath,968 sqft,Year Built: 1925,Open Parking,"$225,000",Philadelphia
+2447 Tulip St,2 Beds,1 Bath,"1,024 sqft",Year Built: 1875,Open Parking,"$325,000",Philadelphia
+2579 Memphis St,1 Bed,1 Bath,"1,596 sqft",Year Built: 1875,Open Parking,"$450,000",Philadelphia
+2216 Gaul St,2 Beds,3 Baths,"1,080 sqft",Year Built: 1875,Open Parking,"$329,000",Philadelphia
+2431 E  Hazzard St,3 Beds,2 Baths,"1,664 sqft",Year Built: 1875Year Renovated: 2023,Open Parking,"$379,000",Philadelphia
+2118 E  Huntingdon St,3 Beds,3 Baths,"1,500 sqft",Year Built: 1875,None,"$399,900",Philadelphia
+2337 E  Albert St,3 Beds,1 Bath,"1,006 sqft",Year Built: 1925,Open Parking,"$230,000",Philadelphia
+2019 N  Carlisle St,7 Beds,7 Baths,"2,116 sqft",Year Built: 1915,None,"$524,999",Philadelphia
+2703 W  Berks St,3 Beds,2 Baths,"1,062 sqft",Year Built: 1915,Open Parking,"$159,000",Philadelphia
+3948 K St,3 Beds,1 Bath,"1,536 sqft",Year Built: 1925,Open Parking,"$199,900",Philadelphia
+7322 Brentwood Rd,3 Beds,4 Baths,"1,621 sqft",Year Built: 1950Year Renovated: 2022,1 Car Garage,"$329,000",Philadelphia
+950 Marcella St,3 Beds,2 Baths,"1,628 sqft",Year Built: 1940,1 Open Spaces,"$217,700",Philadelphia
+635 Rosalie St,4 Beds,2 Baths,"1,116 sqft",Year Built: 1940,Open Parking,"$219,000",Philadelphia
+6301 Lawndale St,3 Beds,3 Baths,"1,296 sqft",Year Built: 1925,1 Car Garage,"$239,888",Philadelphia
+1533 Morris St,5 Beds,2 Baths,"1,779 sqft",Year Built: 1915,None,"$319,900",Philadelphia
+2212 N  Camac St,8 Beds,4 Baths,"2,586 sqft",Year Built: 1915,Open Parking,"$425,000",Philadelphia
+2524 S  Sheridan St,2 Beds,2 Baths,900 sqft,Year Built: 1925Year Renovated: 2020,Open Parking,"$240,000",Philadelphia
+2203 S  Clarion St,2 Beds,1 Bath,959 sqft,Year Built: 1940,Open Parking,"$259,999",Philadelphia
+2623 S  67th St,3 Beds,2 Baths,"1,260 sqft",Year Built: 1916,Open Parking,"$199,900",Philadelphia
+2062 Carver St,2 Beds,1 Bath,966 sqft,Year Built: 1930,Open Parking,"$175,000",Philadelphia
+6357 Ditman St,4 Beds,2 Baths,"1,084 sqft",Year Built: 1935Year Renovated: 2022,Open Parking,"$260,000",Philadelphia
+7012 Torresdale Ave,4 Beds,1 Bath,"1,600 sqft",Year Built: 1935,2 Open Spaces,"$237,000",Philadelphia
+1314 W  Victoria St,,,,,No Info,"$39,900",Philadelphia
+5316 Haverford Ave,3 Beds,2 Baths,"1,042 sqft",Year Built: 1925,Open Parking,"$199,900",Philadelphia
+1834 E  Madison St,3 Beds,1 Bath,992 sqft,Year Built: 1925,Open Parking,"$88,000",Philadelphia
+1706 N  Bouvier St,5 Beds,5 Baths,"1,530 sqft",Year Built: 1920,None,"$264,999",Philadelphia
+2818 Cantrell St,3 Beds,1 Bath,940 sqft,Year Built: 1925,Open Parking,"$109,900",Philadelphia
+4926 N  Warnock St,3 Beds,2 Baths,"1,280 sqft",Year Built: 1935,Open Parking,"$225,000",Philadelphia
+5127 N  9th St,4 Beds,2 Baths,"2,054 sqft",Year Built: 1935Year Renovated: 2023,2 Open Spaces,"$238,000",Philadelphia
+6300 Lawnton Ave,4 Beds,5 Baths,"2,378 sqft",Year Built: 1940,Garage,"$399,995",Philadelphia
+5628 Angora Ter,3 Beds,2 Baths,"1,842 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$224,900",Philadelphia
+1224 McKinley St,3 Beds,2 Baths,"1,394 sqft",Year Built: 1941,Open Parking,"$310,000",Philadelphia
+2211 Glenview St,3 Beds,1 Bath,"1,272 sqft",Year Built: 1950,1 Car Garage,"$259,000",Philadelphia
+3120 Magee Ave,3 Beds,2 Baths,"1,896 sqft",Year Built: 1950,1 Car Garage,"$309,500",Philadelphia
+3177 Weston St,3 Beds,2 Baths,"1,963 sqft",Year Built: 1957,2 Open Spaces,"$450,000",Philadelphia
+3459 Aubrey Ave,3 Beds,2 Baths,"1,224 sqft",Year Built: 1960,Open Parking,"$319,000",Philadelphia
+67 E  High St,3 Beds,1 Bath,"2,565 sqft",Year Built: 1925,Open Parking,"$150,000",Philadelphia
+5350 Osage Ave,3 Beds,1 Bath,"1,224 sqft",Year Built: 1925,Open Parking,"$150,000",Philadelphia
+605 W  64th Ave,5 Beds,3 Baths,"12,040 sqft (on 0.28 acres)",Year Built: 1915,Garage,"$625,000",Philadelphia
+2704 Stevens St,3 Beds,1 Bath,928 sqft,Year Built: 1950,1 Car Garage,"$169,000",Philadelphia
+3580 Churchill Ln,3 Beds,2 Baths,"1,260 sqft",Year Built: 1964,1 Car Garage,"$280,000",Philadelphia
+250 S  13th St #7F,2 Beds,2 Baths,"1,460 sqft",Year Built: 1920,1 Parking Spaces,"$529,000",Philadelphia
+1324 Locust St #721,Studio,1 Bath,319 sqft,Year Built: 1900,None,"$100,000",Philadelphia
+1101 Locust St #9A,2 Beds,2 Baths,"1,163 sqft",Year Built: 2010,1 Car Garage,"$686,000",Philadelphia
+3470 Woodhaven Rd,3 Beds,3 Baths,"2,183 sqft",Year Built: 2008,1 Car Garage,"$384,900",Philadelphia
+1626 Pine St,4 Beds,3 Baths,"1,776 sqft",Year Built: 1840,None,"$1,195,000",Philadelphia
+2122 N  17th St,10 Beds,8 Baths,"3,188 sqft",Year Built: 2019,Open Parking,"$715,000",Philadelphia
+2224 W  Venango St,14 Beds,,"2,800 sqft",Year Built: 1925,None,"$210,000",Philadelphia
+309 Arch St #405,1 Bed,1 Bath,660 sqft,Year Built: 1900,Open Parking,"$320,000",Philadelphia
+4533 Riverside Way,4 Beds,4 Baths,"3,680 sqft",Year Built: 2020,2 Car Garage,"$1,565,000",Philadelphia
+1139 N  3rd St   #8,2 Beds,2 Baths,"1,213 sqft",Year Built: 2023,1 Carport Spaces,"$725,000",Philadelphia
+9228 Blue Grass Rd   #38-42,2 Beds,2 Baths,"1,136 sqft",Year Built: 2006,Parking Lot,"$225,000",Philadelphia
+2039 W  Oxford St,5 Beds,,"1,880 sqft",Year Built: 1915,Open Parking,"$449,999",Philadelphia
+610-610 N  Union St   #614,6 Beds,6 Baths,"2,800 sqft",,Open Parking,"$1,490,000",Philadelphia
+6242 Haverford Ave,,,,,No Info,"$1,300,000",Philadelphia
+328 N  63rd St,,,,,No Info,"$1,400,000",Philadelphia
+1766 N  Howard St,3 Beds,3 Baths,"2,673 sqft",Year Built: 2021,1 Car Garage,"$738,900",Philadelphia
+1913 N  Gratz St,7 Beds,3 Baths,"3,348 sqft",Year Built: 2011,Open Parking,"$460,000",Philadelphia
+1434 N  Carlisle St,13 Beds,,"3,356 sqft",Year Built: 2012,4 Car Garage,"$1,150,000",Philadelphia
+Unit 304 Plan in The Moyer by The Maxim Shtraus Group,2 Beds,2 Baths,"1,327 sqft",Year Built: 2023,Garage,"$534,900+",Philadelphia
+Jameson Model #3 Plan in Regent Row by Jim Roche Real Estate Team,3 Beds,3 Baths,"2,673 sqft",Year Built: 2023,Garage,"$759,900+",Philadelphia
+Gianna Plan in Siena Place by Judd Builders and Developers,3 Beds,4 Baths,"2,896 sqft",Year Built: 2023,No Info,"$680,900+",Philadelphia
+1329 S  7th St,3 Beds,3 Baths,"1,428 sqft",Year Built: 1920,Open Parking,"$450,000",Philadelphia
+1037 Federal St,4 Beds,3 Baths,"2,420 sqft",Year Built: 1915,None,"$649,000",Philadelphia
+5446 Spring St,2 Beds,1 Bath,748 sqft,Year Built: 1920,Open Parking,"$90,000",Philadelphia
+1976 74th Ave,3 Beds,1 Bath,"1,626 sqft",Year Built: 1925,1 Car Garage,"$170,000",Philadelphia
+2123 74th Ave,3 Beds,1 Bath,"1,274 sqft",Year Built: 1950,1 Car Garage,"$225,000",Philadelphia
+4847 Pulaski Ave,5 Beds,3 Baths,"2,403 sqft",Year Built: 1930,Open Parking,"$210,000",Philadelphia
+873 N  30th St,3 Beds,1 Bath,"1,128 sqft",Year Built: 1920,Open Parking,"$299,900",Philadelphia
+2314 N  Broad St,6 Beds,3 Baths,"3,690 sqft",Year Built: 1915Year Renovated: 2023,Open Parking,"$599,900",Philadelphia
+2506 N  17th St,6 Beds,,"1,980 sqft",Year Built: 1915,Open Parking,"$299,900",Philadelphia
+1834 W  Rockland St,4 Beds,1 Bath,"1,270 sqft",Year Built: 1929,Open Parking,"$185,000",Philadelphia
+1802 Lindley Ave,3 Beds,2 Baths,"1,620 sqft",Year Built: 1915Year Renovated: 2022,1 Car Garage,"$125,000",Philadelphia
+4440 Penn St,3 Beds,1 Bath,"1,012 sqft",Year Built: 1920,Open Parking,"$109,900",Philadelphia
+4666 Penn St,5 Beds,2 Baths,"3,192 sqft",Year Built: 1940,Open Parking,"$160,000",Philadelphia
+3109 Memphis St,3 Beds,2 Baths,"1,138 sqft",Year Built: 1925,Open Parking,"$189,500",Philadelphia
+3082 Janney St,3 Beds,2 Baths,"1,650 sqft",Year Built: 1910,Open Parking,"$248,900",Philadelphia
+2441 N  Napa St,2 Beds,2 Baths,936 sqft,Year Built: 1915,Open Parking,"$99,900",Philadelphia
+2827 W  Girard Ave,3 Beds,,"3,561 sqft",Year Built: 1915,Open Parking,"$899,999",Philadelphia
+2641 Emerald St,3 Beds,2 Baths,"1,716 sqft",Year Built: 1875,Open Parking,"$294,900",Philadelphia
+2628 Coral St,3 Beds,1 Bath,"1,377 sqft",Year Built: 1875Year Renovated: 2023,Open Parking,"$289,900",Philadelphia
+2600 Cedar St,3 Beds,2 Baths,"1,430 sqft",Year Built: 1925,Open Parking,"$385,000",Philadelphia
+1739 Fontain St,5 Beds,3 Baths,"1,300 sqft",Year Built: 1925,Open Parking,"$249,000",Philadelphia
+3134 French St,3 Beds,2 Baths,970 sqft,Year Built: 1915,Open Parking,"$200,000",Philadelphia
+1805 N  Newkirk St,3 Beds,1 Bath,"1,050 sqft",Year Built: 1925,Open Parking,"$125,000",Philadelphia
+932 E  Ontario St,,,,,No Info,"$35,000",Philadelphia
+4123 Claridge St,2 Beds,1 Bath,654 sqft,Year Built: 1925,2 Open Spaces,"$175,000",Philadelphia
+2255 Greenwich St,2 Beds,3 Baths,"1,298 sqft",Year Built: 1923,Open Parking,"$329,000",Philadelphia
+2921 N  Taylor St,3 Beds,1 Bath,920 sqft,Year Built: 1925Year Renovated: 2023,None,"$165,000",Philadelphia
+3365 Vaux St,3 Beds,2 Baths,"1,184 sqft",Year Built: 1940,Open Parking,"$335,000",Philadelphia
+322 Roseberry St,3 Beds,2 Baths,"1,200 sqft",Year Built: 1920,Open Parking,"$269,900",Philadelphia
+2108 S  7th St,5 Beds,2 Baths,"1,644 sqft",Year Built: 1920,Open Parking,"$269,900",Philadelphia
+1847 S  12th St,4 Beds,2 Baths,"1,800 sqft",Year Built: 1925,Open Parking,"$250,000",Philadelphia
+2246 S  66th St,3 Beds,2 Baths,"1,110 sqft",Year Built: 1925,1 Car Garage,"$194,900",Philadelphia
+6509 Regent St,3 Beds,1 Bath,"1,092 sqft",Year Built: 1920,Open Parking,"$99,900",Philadelphia
+2743 E  Venango St,4 Beds,2 Baths,"1,554 sqft",Year Built: 1920,Open Parking,"$295,500",Philadelphia
+1422 N  Willington St,6 Beds,4 Baths,"2,032 sqft",Year Built: 1915,Open Parking,"$469,900",Philadelphia
+1106 S  Peach St,3 Beds,2 Baths,960 sqft,Year Built: 1925Year Renovated: 2023,Open Parking,"$195,000",Philadelphia
+1031 S  Ithan St,3 Beds,1 Bath,992 sqft,Year Built: 1925,None,"$119,900",Philadelphia
+5843 Woodcrest Ave,3 Beds,2 Baths,"1,532 sqft",Year Built: 1925,Garage,"$150,000",Philadelphia
+6636 Akron St,3 Beds,1 Bath,"1,164 sqft",Year Built: 1950,Open Parking,"$250,000",Philadelphia
+3343 Tyson Ave,3 Beds,1 Bath,"1,333 sqft",Year Built: 1950,No Info,"$245,000",Philadelphia
+1827 Tustin St,3 Beds,2 Baths,"1,000 sqft",Year Built: 1956,1 Car Garage,"$285,000",Philadelphia
+2815 Chase Rd,3 Beds,1 Bath,"1,164 sqft",Year Built: 1956,1 Car Garage,"$285,000",Philadelphia
+4 Country Lane Way,3 Beds,3 Baths,"2,250 sqft",Year Built: 1986,2 Car Garage,"$427,900",Philadelphia
+307 Buxmont St,3 Beds,2 Baths,"1,496 sqft (on 0.29 acres)",Year Built: 1962,5 Open Spaces,"$379,900",Philadelphia
+815 E  Tulpehocken St,3 Beds,1 Bath,"1,200 sqft",Year Built: 1925,None,"$185,000",Philadelphia
+5214 Delancey St,3 Beds,1 Bath,"1,246 sqft",Year Built: 1925,Open Parking,"$209,900",Philadelphia
+255 S  56th St,3 Beds,1 Bath,"1,280 sqft",Year Built: 1925,None,"$125,000",Philadelphia
+5522 N  7th St,3 Beds,2 Baths,"1,130 sqft",Year Built: 1940,Open Parking,"$199,988",Philadelphia
+5705 Erdrick St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1945,Open Parking,"$189,900",Philadelphia
+5106 Tulip St,3 Beds,1 Bath,"1,095 sqft",Year Built: 1935,Open Parking,"$164,900",Philadelphia
+3306 Rhawn St,4 Beds,2 Baths,"1,828 sqft (on 0.26 acres)",Year Built: 1949,4 Open Spaces,"$299,900",Philadelphia
+3308 Rhawn St,3 Beds,1 Bath,"1,758 sqft",Year Built: 1949,Open Parking,"$249,900",Philadelphia
+3589 Nottingham Ln,3 Beds,1 Bath,"1,260 sqft",Year Built: 1964,1 Car Garage,"$283,000",Philadelphia
+1601 Spring Garden St #207,1 Bed,1 Bath,538 sqft,Year Built: 1832,Open Parking,"$168,500",Philadelphia
+1619 Spruce St #3,1 Bed,1 Bath,700 sqft,Year Built: 1900,None,"$280,000",Philadelphia
+300 Byberry Rd #104,1 Bed,1 Bath,638 sqft,Year Built: 1960,1 Parking Spaces,"$175,000",Philadelphia
+210 W  Washington Sq #4NE,2 Beds,3 Baths,"2,038 sqft",Year Built: 1900,1 Car Garage,"$2,375,000",Philadelphia
+1414 S  Penn Sq #5B,3 Beds,3 Baths,"2,046 sqft",Year Built: 2009,1 Car Garage,"$1,449,000",Philadelphia
+4934 Hazel Ave,6 Beds,3 Baths,"2,400 sqft",Year Built: 1925,Open Parking,"$550,000",Philadelphia
+2517 Manton St,3 Beds,3 Baths,,Year Built: 2022,None,"$498,900",Philadelphia
+1110 N  Hope St,3 Beds,3 Baths,"2,040 sqft",Year Built: 2012,1 Parking Spaces,"$475,000",Philadelphia
+159 E  Allen St #3,3 Beds,4 Baths,"2,000 sqft",Year Built: 2017,1 Car Garage,"$639,999",Philadelphia
+162 Kalos St   #B,3 Beds,3 Baths,"2,900 sqft",Year Built: 2023,1 Car Garage,"$740,000",Philadelphia
+1901-45 John F Kennedy Blvd #706,2 Beds,2 Baths,"1,173 sqft",Year Built: 1968,No Info,"$425,000",Philadelphia
+1326 Spruce St   #1906,1 Bed,1 Bath,897 sqft,Year Built: 1900,None,"$359,000",Philadelphia
+1620 N  Bailey St,,,,,No Info,"$294,900",Philadelphia
+752 S  52nd St   #2,2 Beds,2 Baths,"1,129 sqft",Year Built: 2023Year Renovated: 2023,None,"$319,999",Philadelphia
+752 S  52nd St   #1,3 Beds,3 Baths,"1,241 sqft",Year Built: 2023Year Renovated: 2023,None,"$329,999",Philadelphia
+513 W  Norris St   #9A,2 Beds,3 Baths,"1,322 sqft",Year Built: 2022,None,"$309,000",Philadelphia
+513 W  Norris St   #9-B,2 Beds,3 Baths,"1,375 sqft",Year Built: 2022,None,"$319,000",Philadelphia
+1206 N  Front St,,,,,No Info,"$1,900,000",Philadelphia
+523 E  Brinton St,3 Beds,,"1,920 sqft",Year Built: 1925,Open Parking,"$289,000",Philadelphia
+500 Walnut St,4 Beds,7 Baths,"8,900 sqft",Year Built: 2017,4 Car Garage,"$25,900,000",Philadelphia
+4724 Longshore Ave  #2,14 Beds,,"8,000 sqft",Year Built: 1950,Open Parking,"$739,000",Philadelphia
+1509 Parrish St,8 Beds,,"4,391 sqft",Year Built: 2017,None,"$1,599,000",Philadelphia
+2012 E  Chelten Ave,,,,,No Info,"$125,000",Philadelphia
+7706 Summerdale Ave,5 Beds,3 Baths,"2,360 sqft",Year Built: 1962,None,"$389,900",Philadelphia
+Cumberland Street #3 Plan in Letterland Court by Jim Roche Real Estate Team,3 Beds,4 Baths,"3,020 sqft",Year Built: 2023,Garage,"$949,000+",Philadelphia
+Torresdale Model Plan in Torresdale Manor by Jim Roche Real Estate Team,4 Beds,3 Baths,"2,500 sqft",Year Built: 2023,No Info,"$575,000+",Philadelphia
+Unit 303 Plan in The Moyer by The Maxim Shtraus Group,2 Beds,2 Baths,"1,344 sqft",Year Built: 2023,Garage,"$529,900+",Philadelphia
+Barnett Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"1,493 sqft",Year Built: 2023,No Info,"$629,995+",Philadelphia
+Unit 5 Plan in 1507 Christian Street by Jim Roche Real Estate Team,2 Beds,2 Baths,"1,226 sqft",Year Built: 2023,No Info,"$675,000+",Philadelphia
+212 E  Cambria St,2 Beds,1 Bath,"1,046 sqft",Year Built: 1935,Open Parking,"$60,000",Philadelphia
+3229 Boudinot St,3 Beds,1 Bath,"1,176 sqft",Year Built: 1935,Open Parking,"$65,000",Philadelphia
+2741 N  Hicks St,,,,,No Info,"$95,000",Philadelphia
+2823 N  Van Pelt St,,,,,No Info,"$150,000",Philadelphia
+2107 W  Westmoreland St,,,,,No Info,"$85,000",Philadelphia
+3239 N  Woodstock St,,,,,No Info,"$95,000",Philadelphia
+5645 Nelson St,,,,,No Info,"$85,000",Philadelphia
+1715 W  Pacific St,,,,,No Info,"$105,000",Philadelphia
+4029 Nice St,,,,,No Info,"$125,000",Philadelphia
+4921 N  Smedley St,,,,,No Info,"$95,000",Philadelphia
+1206 N  Howard St,4 Beds,3 Baths,"2,350 sqft",Year Built: 1920Year Renovated: 2016,Open Parking,"$559,500",Philadelphia
+226 E  Garrett St,3 Beds,3 Baths,"1,200 sqft",Year Built: 1920Year Renovated: 2023,Open Parking,"$259,832",Philadelphia
+2429 S  Lawrence St,3 Beds,1 Bath,"1,188 sqft",Year Built: 1915,Open Parking,"$230,000",Philadelphia
+2604 S  Percy St,3 Beds,2 Baths,"1,064 sqft",Year Built: 1925,Open Parking,"$299,000",Philadelphia
+7124 Erdrick St,3 Beds,2 Baths,"1,296 sqft",Year Built: 1950,1 Car Garage,"$239,900",Philadelphia
+5528 N  American St,3 Beds,1 Bath,"1,126 sqft",Year Built: 1930,Open Parking,"$129,900",Philadelphia
+211 N  Ruby St,,,,,No Info,"$80,000",Philadelphia
+1836 S  Hicks St,3 Beds,2 Baths,"1,284 sqft",Year Built: 1920,Open Parking,"$350,000",Philadelphia
+1851 S  16th St,4 Beds,3 Baths,"2,165 sqft",Year Built: 1920,None,"$429,000",Philadelphia
+3355 Brighton St,3 Beds,2 Baths,"1,312 sqft",Year Built: 1929,1 Car Garage,"$270,000",Philadelphia
+6737 Gillespie St,3 Beds,1 Bath,"1,170 sqft",Year Built: 1950,Open Parking,"$205,000",Philadelphia
+616 E  Stafford St,,,,,No Info,"$90,000",Philadelphia
+5120 Leiper St,4 Beds,3 Baths,"1,220 sqft",Year Built: 1950Year Renovated: 2023,Open Parking,"$219,500",Philadelphia
+2204 E  Susquehanna Ave,4 Beds,4 Baths,"2,400 sqft",Year Built: 2008,Open Parking,"$569,900",Philadelphia
+3322 N  Gratz St,,,,,No Info,"$85,000",Philadelphia
+3301 Mascher St,,,,,No Info,"$85,000",Philadelphia
+1727 Wagner Ave,,,,,No Info,"$125,000",Philadelphia
+6901 Greenway Ave,,,,,No Info,"$25,000",Philadelphia
+1859 Harrison St,,,,,No Info,"$105,000",Philadelphia
+264 W  Wensley St,,,,,No Info,"$85,000",Philadelphia
+849 N  Sloan St,,,,,No Info,"$125,000",Philadelphia
+6152 N  Lambert St,,,,,No Info,"$95,000",Philadelphia
+2811 Hope St,,,,,No Info,"$85,000",Philadelphia
+6075 N  Norwood St,,,,,No Info,"$125,000",Philadelphia
+4019 Nice St,,,,,No Info,"$125,000",Philadelphia
+268 W  Wensley St,,,,,No Info,"$85,000",Philadelphia
+1342 S  Bouvier St,3 Beds,4 Baths,,Year Built: 2021,Open Parking,"$775,000",Philadelphia
+4410 Waln St,,,,,No Info,"$150,000",Philadelphia
+1125 Rising Sun Ave,,,,,No Info,"$145,000",Philadelphia
+2119 N  Uber St,,,,,No Info,"$250,000",Philadelphia
+6422 N  Fairhill St,4 Beds,,"1,920 sqft",Year Built: 1945,Garage,"$360,000",Philadelphia
+5310 Haverford Ave,,,,,No Info,"$500,000",Philadelphia
+1725 Fontain St,8 Beds,4 Baths,"1,125 sqft",Year Built: 2011,Open Parking,"$590,000",Philadelphia
+Byrne Model Plan in Torresdale Manor by Jim Roche Real Estate Team,4 Beds,3 Baths,"2,500 sqft",Year Built: 2023,No Info,"$499,000+",Philadelphia
+Courtyard Plan in North Liberty Triangle by Streamline,3 Beds,2 Baths,"1,237 sqft",Year Built: 2023,No Info,"$507,000+",Philadelphia
+Letterly Street #4 Plan in Letterland Court by Jim Roche Real Estate Team,3 Beds,4 Baths,"3,020 sqft",Year Built: 2023,Garage,"$815,000+",Philadelphia
+7111 Germantown Ave #102 Plan in 7111 Germantown Condominium by City Block Team,3 Beds,2 Baths,"1,670 sqft",Year Built: 2023,No Info,"$540,000+",Philadelphia
+Unit 110 Plan in The Moyer by The Maxim Shtraus Group,1 Bed,1 Bath,792 sqft,Year Built: 2023,Garage,"$299,900+",Philadelphia
+3117 N  Judson St,2 Beds,2 Baths,"1,208 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$199,900",Philadelphia
+3508 N  15th St,,,,,No Info,"$85,000",Philadelphia
+5638 Heiskell St,2 Beds,1 Bath,784 sqft,Year Built: 1920,No Info,"$69,900",Philadelphia
+4526 N  Bouvier St,,,,,No Info,"$80,000",Philadelphia
+1529 W  Cayuga St,,,,,No Info,"$100,000",Philadelphia
+4114 Pechin St,3 Beds,3 Baths,"2,176 sqft",Year Built: 1900Year Renovated: 2020,Open Parking,"$525,000",Philadelphia
+3023 Chatham St,3 Beds,2 Baths,"1,398 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$349,900",Philadelphia
+3123 Aramingo Ave,3 Beds,2 Baths,"1,086 sqft",Year Built: 1925,Open Parking,"$169,900",Philadelphia
+2528 Ridge Ave,Studio,,"1,850 sqft",Year Built: 1915,Open Parking,"$149,900",Philadelphia
+637 E  Wensley St,2 Beds,1 Bath,784 sqft,Year Built: 1920,Open Parking,"$69,900",Philadelphia
+1732 N  Robinson St,3 Beds,1 Bath,"1,310 sqft",Year Built: 1925,1 Car Garage,"$150,000",Philadelphia
+309 Magee Ave,3 Beds,2 Baths,"1,200 sqft",Year Built: 1925,Garage,"$234,900",Philadelphia
+2053 Mountain St,3 Beds,2 Baths,"1,036 sqft",Year Built: 1920,Open Parking,"$293,000",Philadelphia
+1420 S  20th St,3 Beds,3 Baths,"2,328 sqft",Year Built: 1923,Open Parking,"$619,900",Philadelphia
+3152 N  Franklin St,,,,,No Info,"$30,000",Philadelphia
+2918 N  26th St,3 Beds,2 Baths,"1,280 sqft",Year Built: 1940,Open Parking,"$225,000",Philadelphia
+430 Tree St,3 Beds,2 Baths,"1,100 sqft",Year Built: 1920,Open Parking,"$259,900",Philadelphia
+6514 Gesner St,3 Beds,1 Bath,"1,044 sqft",Year Built: 1920,Open Parking,"$150,000",Philadelphia
+6516 Gesner St,4 Beds,1 Bath,"1,044 sqft",Year Built: 1920,Open Parking,"$160,000",Philadelphia
+3757 N  7th St,,,,,No Info,"$100,000",Philadelphia
+4836 Ogden St,2 Beds,1 Bath,868 sqft,Year Built: 1925,None,"$55,000",Philadelphia
+1932 E  Thayer St,3 Beds,1 Bath,"1,257 sqft",Year Built: 1910,Open Parking,"$125,000",Philadelphia
+5210 Rodman St,3 Beds,2 Baths,"1,280 sqft",Year Built: 1920,Open Parking,"$268,000",Philadelphia
+5317 Catharine St,5 Beds,2 Baths,"2,400 sqft",Year Built: 1925,Open Parking,"$495,000",Philadelphia
+4807 N  11th St,,,,,No Info,"$80,000",Philadelphia
+6025 Summerdale Ave,3 Beds,2 Baths,"1,120 sqft",Year Built: 1925,Open Parking,"$185,000",Philadelphia
+7135 Lynford St,3 Beds,2 Baths,"1,170 sqft",Year Built: 1950,1 Car Garage,"$229,900",Philadelphia
+930 E  Price St,3 Beds,1 Bath,"1,040 sqft",Year Built: 1900,None,"$114,500",Philadelphia
+7651 Burholme Ave,3 Beds,2 Baths,"1,056 sqft",Year Built: 1957,Open Parking,"$299,900",Philadelphia
+9855 Garvey Dr,3 Beds,3 Baths,"1,404 sqft",Year Built: 1973,1 Open Spaces,"$269,900",Philadelphia
+2136 E  Birch St,,,,,No Info,"$90,000",Philadelphia
+2201 E  Cumberland St,3 Beds,3 Baths,"3,012 sqft",Year Built: 2016,Open Parking,"$650,000",Philadelphia
+905 Pine St,5 Beds,5 Baths,"3,060 sqft",Year Built: 1900Year Renovated: 2019,Garage,"$2,445,000",Philadelphia
+1261 N  26th St,3 Beds,3 Baths,"2,688 sqft",Year Built: 1926,1 Car Garage,"$699,000",Philadelphia
+1241 Kater St,4 Beds,7 Baths,"3,591 sqft",Year Built: 2016,2 Car Garage,"$1,799,000",Philadelphia
+2412 E  Letterly St,4 Beds,4 Baths,"1,807 sqft",Year Built: 2013,2 Open Spaces,"$650,000",Philadelphia
+5348 Cedar Ave,4 Beds,3 Baths,"2,705 sqft",Year Built: 2023Year Renovated: 2023,Open Parking,"$529,000",Philadelphia
+1209 N  5th St   #1B,3 Beds,2 Baths,"2,312 sqft",Year Built: 2022,Open Parking,"$529,900",Philadelphia
+1209 N  5th St   #3B,3 Beds,2 Baths,"2,122 sqft",Year Built: 2022,Open Parking,"$529,900",Philadelphia
+6304 N  Park Ave,5 Beds,6 Baths,"4,300 sqft",Year Built: 1935Year Renovated: 2023,2 Open Spaces,"$547,997",Philadelphia
+1209 N  5th St   #3A,2 Beds,1 Bath,"1,600 sqft",Year Built: 2022,Open Parking,"$349,900",Philadelphia
+1209 N  5th St   #2A,2 Beds,2 Baths,"1,250 sqft",Year Built: 2022,Open Parking,"$349,900",Philadelphia
+1209 N  5th St   #1A,2 Beds,2 Baths,"1,250 sqft",Year Built: 2022,Open Parking,"$349,900",Philadelphia
+1161 S  12th St   #B,3 Beds,,"1,827 sqft",Year Built: 1915,Open Parking,"$629,000",Philadelphia
+Miller Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"2,406 sqft",Year Built: 2023,No Info,"$794,995+",Philadelphia
+211 Mountain St,2 Beds,1 Bath,"1,210 sqft",Year Built: 1920,None,"$299,000",Philadelphia
+612 McClellan St,4 Beds,3 Baths,"2,042 sqft",Year Built: 2019,Open Parking,"$549,990",Philadelphia
+1505 S  13th St,3 Beds,4 Baths,"2,732 sqft",Year Built: 1915Year Renovated: 2003,Open Parking,"$634,900",Philadelphia
+1239 S  Warnock St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1920,Open Parking,"$389,000",Philadelphia
+5803 Pemberton St,3 Beds,2 Baths,"1,062 sqft",Year Built: 1925,Open Parking,"$174,999",Philadelphia
+5408 Spring St,3 Beds,2 Baths,738 sqft,Year Built: 1920Year Renovated: 2023,Open Parking,"$210,000",Philadelphia
+108 N  Sickels St,3 Beds,1 Bath,883 sqft,Year Built: 1925Year Renovated: 1970,Open Parking,"$115,000",Philadelphia
+241 N  Alden St,3 Beds,1 Bath,948 sqft,Year Built: 1920,No Info,"$80,000",Philadelphia
+5723 Dunlap St,3 Beds,1 Bath,"1,260 sqft",Year Built: 1925Year Renovated: 2021,1 Car Garage,"$204,999",Philadelphia
+939 Belmont Ave,2 Beds,6 Baths,"1,928 sqft",Year Built: 1915,Open Parking,"$325,000",Philadelphia
+235 E  Westmoreland St,3 Beds,1 Bath,"1,210 sqft",Year Built: 1935,Open Parking,"$100,000",Philadelphia
+130 W  Seymour St,6 Beds,3 Baths,"1,944 sqft",Year Built: 1900,None,"$260,000",Philadelphia
+5039 Tacoma St,2 Beds,1 Bath,784 sqft,Year Built: 1920,Open Parking,"$40,000",Philadelphia
+2605 Brown St,4 Beds,3 Baths,"2,062 sqft",Year Built: 1920,Open Parking,"$900,000",Philadelphia
+6238 N  Lambert St,3 Beds,1 Bath,972 sqft,Year Built: 1905,Open Parking,"$95,000",Philadelphia
+5924 N  Norwood St,3 Beds,1 Bath,"1,008 sqft",Year Built: 1915,Open Parking,"$79,900",Philadelphia
+2129 N  2nd St,6 Beds,2 Baths,"2,100 sqft",Year Built: 1925,Open Parking,"$250,000",Philadelphia
+2051 N  9th St,6 Beds,4 Baths,"1,920 sqft",Year Built: 2021Year Renovated: 2021,None,"$375,000",Philadelphia
+233 Hermitage St,4 Beds,1 Bath,"1,680 sqft",Year Built: 1925,Open Parking,"$300,000",Philadelphia
+6479 Ross St,3 Beds,2 Baths,"1,428 sqft",Year Built: 1950,Open Parking,"$232,000",Philadelphia
+225 E  Slocum St,2 Beds,3 Baths,"1,244 sqft",Year Built: 1925,Open Parking,"$385,000",Philadelphia
+1910 Carpenter St,4 Beds,3 Baths,"2,150 sqft",Year Built: 1925Year Renovated: 2023,None,"$849,900",Philadelphia
+1712 Edgley St,5 Beds,2 Baths,"1,234 sqft",Year Built: 1925,Open Parking,"$189,900",Philadelphia
+1821 N  Bouvier St,Studio,,"2,166 sqft",Year Built: 1915Year Renovated: 2013,Open Parking,"$489,900",Philadelphia
+637 E  Thayer St,2 Beds,1 Bath,784 sqft,Year Built: 1920,Open Parking,"$78,500",Philadelphia
+320 N  Edgewood St,3 Beds,1 Bath,"1,365 sqft",Year Built: 1925,Open Parking,"$65,000",Philadelphia
+6622 Morris Park Rd,3 Beds,2 Baths,"1,208 sqft",Year Built: 1925,1 Car Garage,"$259,900",Philadelphia
+2356 Gerritt St,4 Beds,4 Baths,"2,260 sqft",Year Built: 2023Year Renovated: 2023,Open Parking,"$900,000",Philadelphia
+738 W  Moyamensing Ave,3 Beds,2 Baths,"1,276 sqft",Year Built: 1925,Open Parking,"$240,000",Philadelphia
+1106 Watkins St,4 Beds,3 Baths,"2,500 sqft",Year Built: 2023Year Renovated: 2023,None,"$770,000",Philadelphia
+8410 Lyons Pl,3 Beds,2 Baths,"1,488 sqft",Year Built: 1960,1 Car Garage,"$240,000",Philadelphia
+6246 Marsden St,2 Beds,1 Bath,960 sqft,Year Built: 1950Year Renovated: 2023,1 Car Garage,"$219,000",Philadelphia
+4210 Vista St,3 Beds,1 Bath,"1,184 sqft",Year Built: 1950Year Renovated: 2020,1 Car Garage,"$194,900",Philadelphia
+4645 Rosehill St,3 Beds,2 Baths,"1,200 sqft",Year Built: 1940,Open Parking,"$179,900",Philadelphia
+5635 Walton Ave,3 Beds,3 Baths,"1,450 sqft",Year Built: 1925,Open Parking,"$214,900",Philadelphia
+6052 N  10th St,3 Beds,2 Baths,"1,152 sqft",Year Built: 1940,1 Car Garage,"$250,000",Philadelphia
+6025 N  Marvine St,4 Beds,2 Baths,"1,176 sqft",Year Built: 1935,Open Parking,"$300,000",Philadelphia
+7864 Provident St,3 Beds,2 Baths,"1,472 sqft",Year Built: 1950,1 Car Garage,"$239,900",Philadelphia
+1146 S  52nd St,4 Beds,3 Baths,"1,820 sqft",Year Built: 1915,Open Parking,"$399,900",Philadelphia
+5524 Elliott St,3 Beds,2 Baths,"1,230 sqft",Year Built: 1925,Open Parking,"$130,000",Philadelphia
+5711 Wyndale Ave,4 Beds,3 Baths,"1,966 sqft",Year Built: 1925,2 Open Spaces,"$240,000",Philadelphia
+1131 Hellerman St,3 Beds,1 Bath,"1,260 sqft",Year Built: 1947,Open Parking,"$265,000",Philadelphia
+1012 Kerper St,3 Beds,1 Bath,"1,188 sqft",Year Built: 1950,1 Car Garage,"$244,900",Philadelphia
+3221 Longshore Ave,3 Beds,2 Baths,"1,440 sqft",Year Built: 1950,1 Car Garage,"$295,000",Philadelphia
+11032 Ferndale St,3 Beds,2 Baths,"1,562 sqft",Year Built: 1960,4 Open Spaces,"$475,000",Philadelphia
+1363 E  Rittenhouse St,3 Beds,2 Baths,"1,380 sqft",Year Built: 1915,Open Parking,"$230,000",Philadelphia
+5232 Sansom St,3 Beds,1 Bath,"1,500 sqft",Year Built: 1925,Open Parking,"$250,000",Philadelphia
+114 S  Cecil St,3 Beds,1 Bath,990 sqft,Year Built: 1925,Open Parking,"$145,000",Philadelphia
+2042 Devereaux Ave,3 Beds,2 Baths,"1,170 sqft",Year Built: 1950,1 Car Garage,"$236,500",Philadelphia
+5031 Akron St,3 Beds,1 Bath,"1,754 sqft",Year Built: 1950,1 Car Garage,"$230,000",Philadelphia
+5203 Ditman St,4 Beds,1 Bath,"1,208 sqft",Year Built: 1945,1 Car Garage,"$150,000",Philadelphia
+1012 Chandler St,3 Beds,2 Baths,"1,067 sqft",Year Built: 1956,Open Parking,"$325,000",Philadelphia
+8638 Glenloch St,3 Beds,2 Baths,"1,368 sqft",Year Built: 1964,1 Car Garage,"$270,000",Philadelphia
+9868 Lackland Dr,3 Beds,2 Baths,"1,404 sqft",Year Built: 1973,No Info,"$289,900",Philadelphia
+3514 Sussex Ln,3 Beds,2 Baths,"1,575 sqft",Year Built: 1961,1 Car Garage,"$339,000",Philadelphia
+2833 Narcissus Rd,4 Beds,2 Baths,"1,808 sqft",Year Built: 1972,Open Parking,"$379,000",Philadelphia
+3900 Ford Rd #12S,2 Beds,2 Baths,"1,230 sqft",Year Built: 1960,No Info,"$165,000",Philadelphia
+1534 S  13th St,5 Beds,2 Baths,"2,208 sqft",Year Built: 1915,Open Parking,"$479,000",Philadelphia
+1244 S  Sheridan St,3 Beds,3 Baths,"2,040 sqft",Year Built: 2006,Open Parking,"$589,999",Philadelphia
+3119 W  Thompson St,2 Beds,2 Baths,"1,367 sqft",Year Built: 2006,1 Car Garage,"$315,000",Philadelphia
+2010 Spruce St #4,3 Beds,3 Baths,"2,401 sqft",Year Built: 1860,1 Carport Spaces,"$1,349,000",Philadelphia
+900 Pine St #3F,2 Beds,2 Baths,"1,520 sqft",Year Built: 1850,Open Parking,"$599,000",Philadelphia
+1414 S  Penn Sq #34H,2 Beds,3 Baths,"1,462 sqft",Year Built: 2009,1 Car Garage,"$800,000",Philadelphia
+1501 Kater St,4 Beds,4 Baths,"5,152 sqft",Year Built: 2009,2 Car Garage,"$1,950,000",Philadelphia
+3628 Stanton St,4 Beds,3 Baths,"2,700 sqft",Year Built: 2013,No Info,"$685,000",Philadelphia
+1920 W  Norris St,,,,,No Info,"$78,000",Philadelphia
+6717 Mitchell St,,,,,No Info,"$160,000",Philadelphia
+540 E  Brinton St,5 Beds,5 Baths,"2,364 sqft",Year Built: 1925,Garage,"$415,000",Philadelphia
+6233 N  17th St,4 Beds,,"1,438 sqft",Year Built: 1925,1 Car Garage,"$189,900",Philadelphia
+598 Alcott St,5 Beds,3 Baths,"2,150 sqft",Year Built: 1920,Open Parking,"$339,999",Philadelphia
+8304 Bustleton Ave #A,1 Bed,2 Baths,"2,172 sqft",Year Built: 1955,Parking Lot,"$539,000",Philadelphia
+3351-3349 B St   #C3350,3 Beds,1 Bath,"1,160 sqft",Year Built: 1935,Open Parking,"$129,000",Philadelphia
+1900 John F Kennedy Blvd #1018,1 Bed,1 Bath,750 sqft (on 0.65 acres),Year Built: 1959,Garage,"$99,000",Philadelphia
+1139 N  3rd St   #2,2 Beds,2 Baths,"1,057 sqft",Year Built: 2023,Open Parking,"$515,000",Philadelphia
+6721 Mitchell St,4 Beds,2 Baths,"2,214 sqft (on 0.25 acres)",Year Built: 1940,5 Open Spaces,"$360,000",Philadelphia
+774 S  Harshaw St,2 Beds,1 Bath,"1,008 sqft",Year Built: 1915,Open Parking,"$425,000",Philadelphia
+1553 N  Marston St,11 Beds,,"4,420 sqft",Year Built: 1960,None,"$475,000",Philadelphia
+2150 E  Hazzard St,4 Beds,5 Baths,"3,008 sqft",Year Built: 2020,Open Parking,"$610,000",Philadelphia
+456 Markle St,2 Beds,,"2,652 sqft",Year Built: 1925,Open Parking,"$650,000",Philadelphia
+Manor Model Plan in Torresdale Manor by Jim Roche Real Estate Team,4 Beds,3 Baths,"2,500 sqft",Year Built: 2023,No Info,"$575,000+",Philadelphia
+Letterly Street Plan in Letterland Court by Jim Roche Real Estate Team,3 Beds,4 Baths,"3,020 sqft",Year Built: 2023,Garage,"$815,000+",Philadelphia
+1529 S  Clarion St,3 Beds,2 Baths,"1,016 sqft",Year Built: 1920,Open Parking,"$469,000",Philadelphia
+6252 Larchwood Ave,3 Beds,1 Bath,"1,200 sqft",Year Built: 1925,None,"$135,000",Philadelphia
+5783 Dunlap St,3 Beds,3 Baths,"1,260 sqft",Year Built: 1925,1 Carport Spaces,"$320,000",Philadelphia
+5712 W  Oxford St,4 Beds,3 Baths,"1,399 sqft",Year Built: 1925,Open Parking,"$319,900",Philadelphia
+221 Pine St,5 Beds,5 Baths,"3,740 sqft",Year Built: 1746Year Renovated: 2016,Open Parking,"$1,229,000",Philadelphia
+109 Rex Ave,3 Beds,2 Baths,"2,030 sqft",Year Built: 1884,Open Parking,"$800,000",Philadelphia
+6915 Stenton Ave,3 Beds,1 Bath,"1,292 sqft",Year Built: 1925,2 Open Spaces,"$220,000",Philadelphia
+3026 N  Judson St,,,,,No Info,"$15,000",Philadelphia
+3352 N  Sydenham St,,,,,No Info,"$45,000",Philadelphia
+182 W  Maplewood Ave,5 Beds,3 Baths,"3,654 sqft",Year Built: 1890,2 Open Spaces,"$499,000",Philadelphia
+1829 W  Butler St,3 Beds,2 Baths,"1,348 sqft",Year Built: 1930Year Renovated: 2023,Open Parking,"$212,900",Philadelphia
+731 N  16th St,4 Beds,3 Baths,"2,484 sqft",Year Built: 1920Year Renovated: 2007,Open Parking,"$725,000",Philadelphia
+866 N  23rd St,13 Beds,,"3,490 sqft",Year Built: 1920Year Renovated: 2023,Open Parking,"$1,200,000",Philadelphia
+2450 N  20th St,5 Beds,4 Baths,"2,220 sqft",Year Built: 1920,Open Parking,"$300,000",Philadelphia
+1722 Stenton Ave,4 Beds,3 Baths,"1,722 sqft",Year Built: 1925,No Info,"$190,000",Philadelphia
+5630 N  18th St,3 Beds,3 Baths,"1,306 sqft",Year Built: 1929,Open Parking,"$175,000",Philadelphia
+5753 N  Woodstock St,3 Beds,1 Bath,960 sqft,Year Built: 1925,Open Parking,"$129,900",Philadelphia
+5759 N  Woodstock St,3 Beds,1 Bath,960 sqft,Year Built: 1925,Open Parking,"$129,900",Philadelphia
+5713 N  Lambert St,3 Beds,1 Bath,960 sqft,Year Built: 1920,Open Parking,"$129,900",Philadelphia
+5729 N  Beechwood St,3 Beds,1 Bath,926 sqft,Year Built: 1905,Open Parking,"$129,900",Philadelphia
+1445 E  Montgomery Ave,2 Beds,3 Baths,"1,705 sqft",Year Built: 1920,Garage,"$849,900",Philadelphia
+1915 N  Mascher St,3 Beds,2 Baths,"1,034 sqft",Year Built: 1925,Open Parking,"$429,900",Philadelphia
+2012 N  Bodine St,4 Beds,3 Baths,"1,900 sqft",Year Built: 2023,None,"$389,000",Philadelphia
+7916 Ridge Ave,5 Beds,2 Baths,"2,724 sqft",Year Built: 1900,Garage,"$324,000",Philadelphia
+3032 Memphis St,3 Beds,2 Baths,"1,036 sqft",Year Built: 1925,None,"$175,000",Philadelphia
+2603 S  18th St,3 Beds,3 Baths,"1,694 sqft",Year Built: 1920,Open Parking,"$339,999",Philadelphia
+1444 N  29th St,3 Beds,2 Baths,"1,280 sqft",Year Built: 1925,Open Parking,"$196,000",Philadelphia
+2557 Sepviva St,3 Beds,1 Bath,"1,260 sqft",Year Built: 1920,Open Parking,"$339,900",Philadelphia
+2164 E  York St,4 Beds,2 Baths,"2,232 sqft",Year Built: 1875,Open Parking,"$675,000",Philadelphia
+2215 E  Boston St,4 Beds,2 Baths,"1,760 sqft",Year Built: 1920,Open Parking,"$525,000",Philadelphia
+2432 Arlington St,,,,,No Info,"$45,000",Philadelphia
+2225 W  Norris St,,,,,No Info,"$45,000",Philadelphia
+2538 Cecil B Moore Ave,3 Beds,2 Baths,"1,380 sqft",Year Built: 1915,Open Parking,"$269,000",Philadelphia
+947 Carver St,3 Beds,1 Bath,"1,100 sqft",Year Built: 1946,1 Car Garage,"$189,900",Philadelphia
+5130 F St,3 Beds,2 Baths,"1,260 sqft",Year Built: 1947,2 Open Spaces,"$279,900",Philadelphia
+2058 Morris St,,,,,No Info,"$80,000",Philadelphia
+2134 S  10th St,4 Beds,6 Baths,"2,454 sqft",Year Built: 1915,Open Parking,"$590,000",Philadelphia
+2825 S  7th St,2 Beds,2 Baths,808 sqft,Year Built: 1920,1 Open Spaces,"$285,000",Philadelphia
+2057 S  Alden St,3 Beds,2 Baths,"1,559 sqft",Year Built: 1925,Open Parking,"$239,900",Philadelphia
+6024 Buist Ave,3 Beds,1 Bath,"1,248 sqft",Year Built: 1925,1 Car Garage,"$179,900",Philadelphia
+6859 Upland St,3 Beds,2 Baths,"1,440 sqft",Year Built: 1920,Open Parking,"$230,000",Philadelphia
+6822 Paschall Ave,4 Beds,3 Baths,"2,635 sqft",Year Built: 1925Year Renovated: 2022,6 Open Spaces,"$299,999",Philadelphia
+5550 Torresdale Ave,2 Beds,,"1,140 sqft",Year Built: 1920,Open Parking,"$169,000",Philadelphia
+6558 Vandike St,3 Beds,2 Baths,"2,085 sqft",Year Built: 1935,Open Parking,"$195,000",Philadelphia
+4726 Princeton Ave,3 Beds,3 Baths,"1,280 sqft",Year Built: 1930Year Renovated: 2023,Open Parking,"$275,000",Philadelphia
+4732 N  Mascher St,5 Beds,3 Baths,"2,542 sqft",Year Built: 1930,4 Open Spaces,"$349,999",Philadelphia
+43 N  Ruby St,3 Beds,2 Baths,"1,310 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$199,000",Philadelphia
+5149 Reno St,Studio,,,Year Built: 1940,Open Parking,"$39,000",Philadelphia
+207 S  49th St,8 Beds,5 Baths,"2,040 sqft",Year Built: 1925,Open Parking,"$699,000",Philadelphia
+825 S  Alden St,3 Beds,3 Baths,"1,600 sqft",Year Built: 1925,No Info,"$249,000",Philadelphia
+3110 Tasker St,3 Beds,1 Bath,960 sqft,Year Built: 1920,None,"$150,000",Philadelphia
+3112 Tasker St,3 Beds,1 Bath,960 sqft,Year Built: 1920,None,"$145,000",Philadelphia
+1910 S  Croskey St,3 Beds,1 Bath,"1,020 sqft",Year Built: 1920,Open Parking,"$165,000",Philadelphia
+1713 N  Ruby St,4 Beds,3 Baths,"1,726 sqft",Year Built: 1925,1 Car Garage,"$299,900",Philadelphia
+5403 Woodcrest Ave,6 Beds,4 Baths,"2,880 sqft",Year Built: 1925,1 Car Garage,"$270,000",Philadelphia
+1301 Wellington St,3 Beds,3 Baths,"1,550 sqft",Year Built: 1923,Garage,"$325,000",Philadelphia
+6601 Eastwood St,4 Beds,2 Baths,"1,680 sqft",Year Built: 1950,1 Open Spaces,"$319,900",Philadelphia
+3209 Hellerman St,3 Beds,1 Bath,"1,170 sqft",Year Built: 1950,2 Car Garage,"$249,000",Philadelphia
+3141 Fanshawe St,3 Beds,2 Baths,"1,440 sqft",Year Built: 1950,Open Parking,"$268,000",Philadelphia
+4150 Stirling St,3 Beds,1 Bath,"1,200 sqft",Year Built: 1950,1 Car Garage,"$220,000",Philadelphia
+2833 Holme Ave,3 Beds,2 Baths,"1,087 sqft",Year Built: 1956,Garage,"$338,000",Philadelphia
+304 Maple Ave,3 Beds,2 Baths,"1,813 sqft",Year Built: 1967,2 Open Spaces,"$512,000",Philadelphia
+13001 Trina Dr,3 Beds,3 Baths,"1,680 sqft",Year Built: 1980,1 Car Garage,"$325,000",Philadelphia
+5535 Locust St,3 Beds,3 Baths,"1,696 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$275,000",Philadelphia
+125 W  Chew Ave,3 Beds,2 Baths,"1,904 sqft",Year Built: 1925,Open Parking,"$249,900",Philadelphia
+316 Queen St,3 Beds,3 Baths,"1,953 sqft",Year Built: 1988,1 Car Garage,"$800,000",Philadelphia
+1739 Wallace St #102,2 Beds,2 Baths,974 sqft,Year Built: 1900,1 Open Spaces,"$499,900",Philadelphia
+403 E  Evergreen Ave #C,2 Beds,3 Baths,"1,504 sqft",Year Built: 1883Year Renovated: 1985,Garage,"$549,000",Philadelphia
+107 W  Shunk St,3 Beds,1 Bath,942 sqft,Year Built: 1982,Open Parking,"$375,000",Philadelphia
+1601 Locust St #1800,2 Beds,2 Baths,"2,300 sqft",Year Built: 1929Year Renovated: 2010,None,"$1,950,000",Philadelphia
+710 S  Bancroft St,3 Beds,3 Baths,"1,650 sqft",Year Built: 2010,Open Parking,"$649,900",Philadelphia
+1940 E  Firth St,3 Beds,3 Baths,"1,920 sqft",Year Built: 2023,Open Parking,"$449,000",Philadelphia
+2134 N  21st St,,,,,No Info,"$45,000",Philadelphia
+2128 N  Marshall St,,,,,No Info,"$115,000",Philadelphia
+2124 N  Marshall St,,,,,No Info,"$115,000",Philadelphia
+2154 N  21st St,,,,,No Info,"$45,000",Philadelphia
+3616 Janney St,,,,,No Info,"$1,300,000",Philadelphia
+334 S  19th St,3 Beds,3 Baths,"1,850 sqft",Year Built: 1848,None,"$1,100,000",Philadelphia
+1942 E  Firth St,3 Beds,3 Baths,"1,920 sqft",Year Built: 2023,Open Parking,"$449,000",Philadelphia
+1460 N  56th St,2 Beds,3 Baths,"1,546 sqft",Year Built: 1920Year Renovated: 2019,Open Parking,"$224,900",Philadelphia
+4614 Spruce St,6 Beds,,"3,360 sqft",Year Built: 1904,Open Parking,"$839,000",Philadelphia
+846 N  15th St #B,2 Beds,2 Baths,"1,241 sqft",Year Built: 2011,Open Parking,"$370,000",Philadelphia
+1740 N  Hope St   #18,3 Beds,3 Baths,"2,673 sqft",Year Built: 2021,1 Car Garage,"$759,900",Philadelphia
+717 S  Columbus Blvd #1113,2 Beds,2 Baths,"1,293 sqft",Year Built: 1995,No Info,"$526,500",Philadelphia
+1901 John F Kennedy Blvd #2915,1 Bed,1 Bath,871 sqft,Year Built: 1967,No Info,"$190,000",Philadelphia
+5511-5513 Baltimore Ave,,,,,No Info,"$150,000",Philadelphia
+4246 N  Broad St,,,,,No Info,"$599,900",Philadelphia
+2527 W  Seybert St,2 Beds,1 Bath,896 sqft,Year Built: 1920Year Renovated: 2023,Open Parking,"$300,000",Philadelphia
+3003 Gaul St,,,,,No Info,"$995,000",Philadelphia
+866 N  23rd St   #2,2 Beds,2 Baths,"3,492 sqft",Year Built: 1920Year Renovated: 2023,Open Parking,"$350,000",Philadelphia
+2327 N  Park Ave,14 Beds,18 Baths,"3,720 sqft",Year Built: 2011,Open Parking,"$469,900",Philadelphia
+2429 Locust St   #515,1 Bed,1 Bath,705 sqft,Year Built: 1900,None,"$340,000",Philadelphia
+627 S  42nd St,5 Beds,4 Baths,"2,400 sqft",Year Built: 1915,Open Parking,"$595,000",Philadelphia
+Jameson Model Plan in Regent Row by Jim Roche Real Estate Team,3 Beds,3 Baths,"2,673 sqft",Year Built: 2023,Garage,"$759,900+",Philadelphia
+1235 S  2nd St,3 Beds,2 Baths,"1,344 sqft",Year Built: 1915,Open Parking,"$349,000",Philadelphia
+1137 S  10th St,4 Beds,3 Baths,"2,016 sqft",Year Built: 1915,Open Parking,"$625,000",Philadelphia
+35 E  Willow Grove Ave,5 Beds,4 Baths,"2,600 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$1,035,555",Philadelphia
+5525 Ardleigh St,3 Beds,1 Bath,948 sqft,Year Built: 1900,Open Parking,"$189,900",Philadelphia
+5346 N  Carlisle St,3 Beds,2 Baths,"1,646 sqft",Year Built: 1908,No Info,"$249,999",Philadelphia
+6317 N  Beechwood St,3 Beds,1 Bath,900 sqft,Year Built: 1925,Open Parking,"$90,000",Philadelphia
+809 E  Thompson St,3 Beds,2 Baths,"1,800 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$599,000",Philadelphia
+511 W  York St,,,,,No Info,"$77,000",Philadelphia
+4646 Silverwood St,3 Beds,2 Baths,"1,024 sqft",Year Built: 1950,Open Parking,"$360,000",Philadelphia
+429 Hermitage St,3 Beds,2 Baths,"2,025 sqft",Year Built: 1930,Open Parking,"$380,000",Philadelphia
+314 E  Upsal St,3 Beds,1 Bath,960 sqft,Year Built: 1925,Open Parking,"$198,000",Philadelphia
+2707 E  Monmouth St,3 Beds,3 Baths,"1,330 sqft",Year Built: 1965Year Renovated: 2023,Open Parking,"$415,000",Philadelphia
+2560 Cedar St,3 Beds,2 Baths,"1,300 sqft",Year Built: 1925,Open Parking,"$350,000",Philadelphia
+1962 N  Patton St,Studio,,918 sqft,Year Built: 1915,Open Parking,"$72,000",Philadelphia
+2819 W  Oxford St,5 Beds,,"1,963 sqft",Year Built: 1915Year Renovated: 2023,Open Parking,"$610,000",Philadelphia
+4349 Malta St,3 Beds,2 Baths,"1,120 sqft",Year Built: 1925,Open Parking,"$259,999",Philadelphia
+1310 N  60th St,3 Beds,2 Baths,"1,512 sqft",Year Built: 1925,Open Parking,"$205,000",Philadelphia
+3424 Indian Queen Ln,3 Beds,2 Baths,"1,120 sqft",Year Built: 1939,None,"$350,000",Philadelphia
+1223 Emily St,3 Beds,1 Bath,784 sqft,Year Built: 1920,None,"$209,900",Philadelphia
+2412 S  Edgewood St,3 Beds,1 Bath,870 sqft,Year Built: 1925,Open Parking,"$100,000",Philadelphia
+811 W  Schiller St,2 Beds,1 Bath,808 sqft,Year Built: 1942,None,"$95,000",Philadelphia
+5511 Pemberton St,3 Beds,3 Baths,"1,194 sqft",Year Built: 1925,Open Parking,"$274,990",Philadelphia
+2110 McClellan St,3 Beds,1 Bath,"1,104 sqft",Year Built: 1920,Open Parking,"$225,000",Philadelphia
+4846 N  8th St,3 Beds,2 Baths,"1,370 sqft",Year Built: 1935,1 Car Garage,"$254,900",Philadelphia
+5151 N  8th St,3 Beds,1 Bath,"1,008 sqft",Year Built: 1935,Open Parking,"$111,000",Philadelphia
+1255 S  Ruby St,2 Beds,1 Bath,918 sqft,Year Built: 1925,Open Parking,"$131,900",Philadelphia
+1721 S  53rd St,3 Beds,2 Baths,"1,176 sqft",Year Built: 1925,Open Parking,"$90,000",Philadelphia
+5043 Diamond St,3 Beds,2 Baths,"1,428 sqft",Year Built: 1925,1 Car Garage,"$309,000",Philadelphia
+1741 Georges Ln,3 Beds,2 Baths,"1,609 sqft",Year Built: 1925,Open Parking,"$239,900",Philadelphia
+1207 Passmore St,3 Beds,1 Bath,,Year Built: 1965,Open Parking,"$239,900",Philadelphia
+4131 Gilham St,3 Beds,1 Bath,960 sqft,Year Built: 1950,1 Car Garage,"$174,900",Philadelphia
+5449 Irving St,3 Beds,1 Bath,"1,530 sqft",Year Built: 1925,Open Parking,"$190,000",Philadelphia
+7007 N  Broad St,4 Beds,3 Baths,"1,954 sqft",Year Built: 1940,1 Car Garage,"$279,000",Philadelphia
+312-14 Loney St,5 Beds,2 Baths,"2,250 sqft (on 0.29 acres)",Year Built: 1912,Open Parking,"$350,000",Philadelphia
+4719 Loring St,3 Beds,3 Baths,"1,260 sqft",Year Built: 1953,None,"$145,000",Philadelphia
+10814 Modena Ter,3 Beds,2 Baths,"1,449 sqft",Year Built: 1972,1 Car Garage,"$280,000",Philadelphia
+2026 E  Allegheny Ave,7 Beds,5 Baths,"3,300 sqft",Year Built: 1925,Open Parking,"$519,000",Philadelphia
+2619 Potter St,,,,,No Info,"$59,000",Philadelphia
+2154 N  Randolph St,3 Beds,3 Baths,"2,100 sqft",Year Built: 2023,Open Parking,"$399,900",Philadelphia
+2502 N  Lee St,,,,,No Info,"$85,000",Philadelphia
+1215 N  27th St,7 Beds,7 Baths,"3,144 sqft",Year Built: 2017,Open Parking,"$999,000",Philadelphia
+314 Green Ln,3 Beds,4 Baths,"2,500 sqft",Year Built: 2012,2 Car Garage,"$560,000",Philadelphia
+286 Parker Ave #G,3 Beds,3 Baths,"2,285 sqft",Year Built: 2015,1 Car Garage,"$625,000",Philadelphia
+808 Carpenter St #C,3 Beds,4 Baths,"2,800 sqft",Year Built: 2014,Garage,"$899,900",Philadelphia
+2623 Potter St,,,,,No Info,"$59,000",Philadelphia
+643 N  Sydenham St,3 Beds,3 Baths,"2,226 sqft",Year Built: 2014,1 Car Garage,"$999,000",Philadelphia
+302 Leverington Ave #B,4 Beds,3 Baths,"2,900 sqft",Year Built: 2021,1 Car Garage,"$724,900",Philadelphia
+840 N  19th St #A,4 Beds,3 Baths,"2,565 sqft",Year Built: 2017,1 Car Garage,"$674,000",Philadelphia
+219 S  18th St   #211,3 Beds,2 Baths,"1,435 sqft",Year Built: 1900,None,"$1,195,000",Philadelphia
+2101 Chestnut St   #901,Studio,1 Bath,416 sqft,Year Built: 1900,None,"$159,000",Philadelphia
+1004 W  Thayer St,,,,,No Info,"$64,900",Philadelphia
+11 Single Family Portfolio,3 Beds,2 Baths,,Year Built: 1925,Open Parking,"$950,000",Philadelphia
+2100 Lombard St,5 Beds,7 Baths,"4,500 sqft",Year Built: 2023,2 Car Garage,"$3,750,000",Philadelphia
+1414 S  Penn Sq   #14B,3 Beds,4 Baths,"2,046 sqft",Year Built: 2009,Garage,"$1,670,000",Philadelphia
+Letterly Street #2 Plan in Letterland Court by Jim Roche Real Estate Team,3 Beds,4 Baths,"3,020 sqft",Year Built: 2023,Garage,"$815,000+",Philadelphia
+McKean Plan in Toll Brothers at Northbank by Toll Brothers,3 Beds,3 Baths,"2,406 sqft",Year Built: 2023,No Info,"$794,995+",Philadelphia
+5821 Hoffman Ave,4 Beds,3 Baths,"1,640 sqft",Year Built: 1925,1 Car Garage,"$390,000",Philadelphia
+25 N  Yewdall St,3 Beds,1 Bath,"1,036 sqft",Year Built: 1925,Open Parking,"$165,000",Philadelphia
+4279 Mantua Ave,,,,,No Info,"$149,000",Philadelphia
+840 N  43rd St,,,,,No Info,"$80,000",Philadelphia
+3051 N  Swanson St,2 Beds,1 Bath,980 sqft,Year Built: 1920,Open Parking,"$37,500",Philadelphia
+1642 W  Juniata St,2 Beds,1 Bath,"1,090 sqft",Year Built: 1930,Open Parking,"$170,000",Philadelphia
+1865 Conlyn St,5 Beds,4 Baths,"1,432 sqft",Year Built: 1954,1 Car Garage,"$299,900",Philadelphia
+1605 Germantown Ave,3 Beds,3 Baths,"1,200 sqft",Year Built: 1920Year Renovated: 2022,Open Parking,"$350,000",Philadelphia
+1931 N  Mascher St,3 Beds,1 Bath,"1,034 sqft",Year Built: 1925,Open Parking,"$239,900",Philadelphia
+335 Glen Echo Rd,3 Beds,2 Baths,"1,360 sqft",Year Built: 1953,1 Car Garage,"$234,900",Philadelphia
+4408 E  Wingohocking St,3 Beds,1 Bath,972 sqft,Year Built: 1930,2 Open Spaces,"$140,000",Philadelphia
+2139 E  Auburn St,3 Beds,2 Baths,"1,050 sqft",Year Built: 1920Year Renovated: 2021,Open Parking,"$260,000",Philadelphia
+2052 E  Stella St,3 Beds,2 Baths,"1,032 sqft",Year Built: 1920,Open Parking,"$180,000",Philadelphia
+1902 Durfor St,3 Beds,2 Baths,"1,050 sqft",Year Built: 1920,Open Parking,"$275,000",Philadelphia
+4207 Ranstead St,2 Beds,1 Bath,550 sqft,Year Built: 1920,Open Parking,"$254,900",Philadelphia
+1023 S  Cleveland St,2 Beds,,896 sqft,Year Built: 1920,Open Parking,"$240,000",Philadelphia
+2231 Pemberton St,4 Beds,3 Baths,"2,350 sqft",Year Built: 2023,Open Parking,"$1,100,000",Philadelphia
+2610 Catharine St,3 Beds,3 Baths,"1,700 sqft",Year Built: 1925Year Renovated: 2018,Open Parking,"$540,000",Philadelphia
+2305 E  Sergeant St,3 Beds,3 Baths,"1,980 sqft",Year Built: 1875,Garage,"$669,900",Philadelphia
+2136 N  27th St,5 Beds,2 Baths,"1,485 sqft",Year Built: 1915,Open Parking,"$135,000",Philadelphia
+1236 E  Cayuga St,2 Beds,1 Bath,720 sqft,Year Built: 1925,1 Car Garage,"$179,900",Philadelphia
+423 Gilham St,3 Beds,2 Baths,"1,650 sqft",Year Built: 1925,Garage,"$239,000",Philadelphia
+1521 S  19th St,3 Beds,3 Baths,"1,450 sqft",Year Built: 1925Year Renovated: 2023,Open Parking,"$444,900",Philadelphia
+815 Jackson St,3 Beds,2 Baths,"1,250 sqft",Year Built: 1925,Open Parking,"$245,000",Philadelphia
+8405 Crane St,3 Beds,2 Baths,"1,488 sqft",Year Built: 1920,2 Open Spaces,"$209,000",Philadelphia
+2033 E  Sanger St,3 Beds,1 Bath,"1,084 sqft",Year Built: 1935,1 Car Garage,"$210,000",Philadelphia
+4516 Robbins Ave,3 Beds,2 Baths,"1,318 sqft",Year Built: 1950,1 Open Spaces,"$234,900",Philadelphia
+4202 Shelmire Ave,5 Beds,2 Baths,"1,204 sqft",Year Built: 1950,1 Open Spaces,"$243,999",Philadelphia
+5147 Reno St,,,,,No Info,"$39,000",Philadelphia
+2032 McKean St,3 Beds,3 Baths,"1,440 sqft",Year Built: 1920,Open Parking,"$349,000",Philadelphia
+2013 S  Bancroft St,3 Beds,1 Bath,816 sqft,Year Built: 1920,None,"$189,900",Philadelphia
+2027 S  Bucknell St,3 Beds,1 Bath,"1,248 sqft",Year Built: 1920,Open Parking,"$289,900",Philadelphia
+1103 E  Durham St,3 Beds,4 Baths,"1,934 sqft",Year Built: 1950,1 Car Garage,"$385,000",Philadelphia
+1156 S  53rd St,3 Beds,1 Bath,"1,140 sqft",Year Built: 1925,Open Parking,"$160,000",Philadelphia
+1419 S  Vogdes St,,,,,No Info,"$49,000",Philadelphia
+2308 N  50th St,5 Beds,5 Baths,"3,150 sqft",Year Built: 1925,1 Car Garage,"$480,000",Philadelphia
+111 E  Colonial St,3 Beds,2 Baths,"1,184 sqft",Year Built: 1959,1 Car Garage,"$250,000",Philadelphia
+6208 Cardiff St,3 Beds,1 Bath,"1,120 sqft",Year Built: 1950,Open Parking,"$239,900",Philadelphia
+1903 Spruce St #3F,2 Beds,3 Baths,"1,716 sqft",Year Built: 1900,None,"$595,000",Philadelphia
+2101-17 Chestnut St #1602,Studio,1 Bath,406 sqft,Year Built: 1956,Open Parking,"$169,900",Philadelphia
+1324 Locust St #616,Studio,1 Bath,335 sqft,Year Built: 1900,Open Parking,"$89,900",Philadelphia
+2916 W  Oxford St,4 Beds,4 Baths,"2,650 sqft",Year Built: 2023,Open Parking,"$500,000",Philadelphia
+661 Brooklyn St,,,,,No Info,"$180,000",Philadelphia
+5144 Ranstead St,,,,,No Info,"$90,000",Philadelphia
+2200 N  7th St,,,,,No Info,"$149,000",Philadelphia
+939 N  40th St,,,,,No Info,"$170,000",Philadelphia
+442 N  Wilton St,,,,,No Info,"$49,000",Philadelphia
+817 N  39th St,,,,,No Info,"$180,000",Philadelphia
+3715 Fairmount Ave,,,,,No Info,"$180,000",Philadelphia
+115 S VAN PELT St,3 Beds,4 Baths,"2,682 sqft",Year Built: 2015,1 Car Garage,"$2,250,000",Philadelphia
+4500 Salmon St,3 Beds,3 Baths,"2,502 sqft",Year Built: 1920,Open Parking,"$465,322",Philadelphia
+308 Reed St   #1,2 Beds,1 Bath,"1,250 sqft",Year Built: 2023,1 Parking Spaces,"$575,000",Philadelphia
+2606 E  Hagert St,4 Beds,3 Baths,"3,100 sqft",Year Built: 2022,1 Car Garage,"$725,000",Philadelphia
+6701 Cinnaminson Ct   #17,3 Beds,3 Baths,,,1 Car Garage,"$651,335",Philadelphia
+428 W  Master St   #A2,3 Beds,3 Baths,"2,246 sqft",Year Built: 2023,1 Car Garage,"$669,000",Philadelphia
+541 Foster St,4 Beds,,"1,584 sqft",Year Built: 1965,Open Parking,"$349,900",Philadelphia
+1608 Ridge Ave  #402,2 Beds,1 Bath,910 sqft,Year Built: 2016,Open Parking,"$290,000",Philadelphia
+130 Delancey St,4 Beds,6 Baths,"4,439 sqft",Year Built: 1800Year Renovated: 2017,1 Parking Spaces,"$2,600,000",Philadelphia
+246 S  Farragut St,6 Beds,3 Baths,"2,240 sqft",Year Built: 1925,None,"$699,990",Philadelphia
+Kahn Model Plan in Regent Row by Jim Roche Real Estate Team,3 Beds,3 Baths,"3,364 sqft",Year Built: 2023,Garage,"$949,900+",Philadelphia
+1412 S  5th St,2 Beds,2 Baths,"2,372 sqft",Year Built: 1915,None,"$595,000",Philadelphia
+6237 Delancey St,4 Beds,2 Baths,960 sqft,Year Built: 1925,Open Parking,"$165,000",Philadelphia
+340 N  59th St,3 Beds,1 Bath,948 sqft,Year Built: 1920,Open Parking,"$60,000",Philadelphia
+1025 N  45th St,3 Beds,1 Bath,"1,136 sqft",Year Built: 1925,Open Parking,"$150,000",Philadelphia
+259 E  Tusculum St,2 Beds,1 Bath,672 sqft,Year Built: 1920,Open Parking,"$65,000",Philadelphia
+3309 Gransback St,3 Beds,1 Bath,942 sqft,Year Built: 1935,Open Parking,"$105,000",Philadelphia
+6719 N  17th St,3 Beds,1 Bath,"1,230 sqft",Year Built: 1925,None,"$165,000",Philadelphia
+2513 N  Bancroft St,3 Beds,1 Bath,"1,038 sqft",Year Built: 1915,Open Parking,"$70,000",Philadelphia
+2411 N  19th St,4 Beds,4 Baths,"1,915 sqft",Year Built: 1915,Open Parking,"$289,900",Philadelphia
+2233 W  Cumberland St,3 Beds,1 Bath,"1,372 sqft",Year Built: 1925,Open Parking,"$110,000",Philadelphia
+520 Belgrade St,3 Beds,2 Baths,"1,430 sqft",Year Built: 1885,Garage,"$575,000",Philadelphia
+2357 N  Leithgow St,3 Beds,1 Bath,918 sqft,Year Built: 1915Year Renovated: 2022,Open Parking,"$214,000",Philadelphia
+2545 N  6th St,3 Beds,1 Bath,"1,305 sqft",Year Built: 1915,Open Parking,"$225,000",Philadelphia
+1641 Fillmore St,2 Beds,1 Bath,"1,008 sqft",Year Built: 1935,Open Parking,"$94,000",Philadelphia
+3859 Pennsgrove St,3 Beds,1 Bath,808 sqft,Year Built: 1930,Open Parking,"$150,000",Philadelphia
+2918 Memphis St,3 Beds,2 Baths,"1,036 sqft",Year Built: 1925,Open Parking,"$274,890",Philadelphia
+2330 S  21st St,4 Beds,2 Baths,"2,200 sqft",Year Built: 1920,None,"$610,000",Philadelphia
+1326 S  Paxon St,3 Beds,3 Baths,"1,450 sqft",Year Built: 1940,Open Parking,"$249,900",Philadelphia
+2451 N  33rd St,4 Beds,3 Baths,"1,500 sqft",Year Built: 1915,Open Parking,"$310,000",Philadelphia
+1300 N  Newkirk St,4 Beds,2 Baths,"1,575 sqft",Year Built: 1926,None,"$399,500",Philadelphia
+1416 N  30th St,3 Beds,2 Baths,"1,038 sqft",Year Built: 1925,Open Parking,"$299,900",Philadelphia
+2604 Amber St,2 Beds,1 Bath,"1,024 sqft",Year Built: 1875,Open Parking,"$249,900",Philadelphia
+2037 E  Fletcher St,2 Beds,2 Baths,"1,575 sqft",Year Built: 1875,Open Parking,"$385,000",Philadelphia
+1930 W  Berks St,6 Beds,6 Baths,"1,536 sqft",Year Built: 1915,Open Parking,"$299,900",Philadelphia
+2901 W  Diamond St,3 Beds,2 Baths,"1,504 sqft",Year Built: 1915,1 Car Garage,"$309,900",Philadelphia
+4136 L St,3 Beds,2 Baths,"1,408 sqft",Year Built: 1925,Open Parking,"$210,000",Philadelphia
+6131 Master St,3 Beds,1 Bath,965 sqft,Year Built: 1925,None,"$110,000",Philadelphia
+1539 S  21st St,3 Beds,2 Baths,"1,170 sqft",Year Built: 1920,Open Parking,"$385,000",Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
+,,,,,,,Philadelphia
